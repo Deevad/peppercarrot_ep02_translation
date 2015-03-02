@@ -2,6 +2,7 @@
 # episode 02 : Rainbow Potion
 http://www.peppercarrot.com
 
+![alt tag](gfx_Pepper-and-Carrot_by-David-Revoy_E02.png)
 
 License
 =======
