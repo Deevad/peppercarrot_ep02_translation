@@ -43,9 +43,9 @@
      inkscape:window-height="1017"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.2415574"
-     inkscape:cx="-425.09276"
-     inkscape:cy="14418.957"
+     inkscape:zoom="0.4831148"
+     inkscape:cx="1285.6448"
+     inkscape:cy="1841.8221"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\Frederico\Documents\GitHub\peppercarrot_ep02_translation\en\..\gfx_Pepper-and-Carrot_by-David-Revoy_E02P01.png"
-       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E02P01.png"
-       y="0"
-       x="-1.6728083e-06"
-       id="image10"
+       width="2300"
        height="15990"
-       width="2300" />
+       xlink:href="file:///C:/Users/Frederico/Desktop/Pepper/Ep2/peppercarrot_ep02_translation-master/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E02P01.png"
+       id="image10"
+       x="-1.6728083e-06"
+       y="0"
+       sodipodi:absref="C:\Users\Frederico\Desktop\Pepper\Ep2\peppercarrot_ep02_translation-master\en\..\gfx_Pepper-and-Carrot_by-David-Revoy_E02P01.png" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -81,7 +81,7 @@
            y="425.30325"
            style="font-size:72px;fill:#562f13;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara3069"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:88px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#562f13;fill-opacity:1">Episode 2 : Rainbow potions</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:88px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#562f13;fill-opacity:1">Episódio 2 : Poções arco-íris</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3063-8"
        style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#e69d76;fill-opacity:1;fill-rule:nonzero;stroke:#e99f77;stroke-width:4.3819828;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial;-inkscape-font-specification:Arial"
@@ -694,17 +694,17 @@
          id="flowPara3572" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3574"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#485a48;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
-       transform="matrix(0.90095678,0,0,1.0384381,117.01046,-990.60211)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#485a48;fill-opacity:1;stroke:none"
+       transform="matrix(0.90095678,0,0,1.0384381,18.74346,-990.60211)"><flowRegion
          id="flowRegion3576"><rect
            id="rect3578"
-           width="2021.3717"
-           height="106.51344"
+           width="2251.1165"
+           height="70.635048"
            x="158.58536"
            y="15665.729"
            style="text-align:center;text-anchor:middle;fill:#485a48;fill-opacity:1" /></flowRegion><flowPara
-         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#485a48;fill-opacity:1"
-         id="flowPara3582">This webcomic is open-source and this episode was funded by my 21 patrons on</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#485a48;fill-opacity:1"
+         id="flowPara3582">Essa webcomic é open-source e esse episódio foi financiado pelos meus 21 patronos em</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3574-8"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
@@ -720,7 +720,7 @@
          id="flowPara3582-4">www.patreon.com/davidrevoy</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3574-1"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#42493d;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#42493d;fill-opacity:1;stroke:none"
        transform="matrix(0.90095678,0,0,1.0384381,93.598385,-853.87329)"><flowRegion
          id="flowRegion3576-97"><rect
            id="rect3578-2"
@@ -729,11 +729,11 @@
            x="158.58536"
            y="15665.729"
            style="text-align:center;text-anchor:middle;fill:#42493d;fill-opacity:1" /></flowRegion><flowPara
-         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#42493d;fill-opacity:1"
-         id="flowPara3582-2">Many thanks to</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#42493d;fill-opacity:1"
+         id="flowPara3582-2">Muito obrigado a</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3574-1-6"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#777967;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#777967;fill-opacity:1;stroke:none"
        transform="matrix(0.68171387,0,0,0.73060153,366.63802,4398.9143)"><flowRegion
          id="flowRegion3576-97-8"><rect
            id="rect3578-2-9"
@@ -742,6 +742,6 @@
            x="158.58536"
            y="15665.729"
            style="text-align:center;text-anchor:middle;fill:#777967;fill-opacity:1" /></flowRegion><flowPara
-         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#777967;fill-opacity:1"
-         id="flowPara3582-2-8">made with Krita on Gnu/Linux</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#777967;fill-opacity:1"
+         id="flowPara3582-2-8">produzido com Krita e Gnu/Linux</flowPara></flowRoot>  </g>
 </svg>

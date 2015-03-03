@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -121,13 +121,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true" />
   <image
-     sodipodi:absref="C:\Users\Frederico\Documents\GitHub\peppercarrot_ep02_translation\en\..\gfx_Pepper-and-Carrot_by-David-Revoy_E02.png"
-     xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E02.png"
-     y="0"
-     x="0"
-     id="image10"
+     sodipodi:absref="C:\Users\Frederico\Desktop\Pepper\Ep2\peppercarrot_ep02_translation-master\en\..\gfx_Pepper-and-Carrot_by-David-Revoy_E02.png"
+     xlink:href="file:///C:/Users/Frederico/Desktop/Pepper/Ep2/peppercarrot_ep02_translation-master/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E02.png"
+     width="1100"
      height="765"
-     width="1100" />
+     id="image10"
+     x="0"
+     y="0" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -150,5 +150,5 @@
            y="644.36664"
            style="fill:#301b0b;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara2993"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">Episode 2 : Rainbow potions</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">Episódio 2 : Poções arco-íris</flowPara></flowRoot>  </g>
 </svg>
