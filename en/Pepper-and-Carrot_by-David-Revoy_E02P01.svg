@@ -12,10 +12,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91pre3 r13670"
    width="2300"
    height="15990"
-   sodipodi:docname="ep02_rainbow-potions.svg">
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E02P01.svg">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,14 +40,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1041"
+     inkscape:window-height="1017"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.2415574"
-     inkscape:cx="193.80776"
-     inkscape:cy="1204.0617"
-     inkscape:window-x="0"
-     inkscape:window-y="20"
+     inkscape:cx="-425.09276"
+     inkscape:cy="14418.957"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -56,12 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       width="2300"
-       height="15990"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E02P01.png"
-       id="image10"
+       sodipodi:absref="C:\Users\Frederico\Documents\GitHub\peppercarrot_ep02_translation\en\..\gfx_Pepper-and-Carrot_by-David-Revoy_E02P01.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E02P01.png"
+       y="0"
        x="-1.6728083e-06"
-       y="0" />
+       id="image10"
+       height="15990"
+       width="2300" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -70,7 +71,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3063"
-       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#562f13;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;fill:#562f13;fill-opacity:1;stroke:none"
        transform="matrix(0.72151821,0,0,0.71749781,101.82201,-12.228997)"><flowRegion
          id="flowRegion3065"><rect
            id="rect3067"
@@ -80,7 +81,7 @@
            y="425.30325"
            style="font-size:72px;fill:#562f13;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara3069"
-         style="font-size:88px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#562f13;fill-opacity:1;font-family:Lavi;-inkscape-font-specification:Lavi">Episode 1 : Rainbow potions</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:88px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#562f13;fill-opacity:1">Episode 2 : Rainbow potions</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3063-8"
        style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#e69d76;fill-opacity:1;fill-rule:nonzero;stroke:#e99f77;stroke-width:4.3819828;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial;-inkscape-font-specification:Arial"
@@ -690,7 +691,7 @@
            x="179.88788"
            y="15277.55"
            style="-inkscape-font-specification:Lavi;font-family:Lavi;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" /></flowRegion><flowPara
-         id="flowPara3572"></flowPara></flowRoot>    <flowRoot
+         id="flowPara3572" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3574"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#485a48;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"

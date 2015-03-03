@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91pre3 r13670"
    width="1100"
    height="765"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E02.svg">
@@ -109,7 +109,7 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.78591497"
-     inkscape:cx="523.01266"
+     inkscape:cx="332.78852"
      inkscape:cy="387.90076"
      inkscape:window-x="208"
      inkscape:window-y="26"
@@ -121,13 +121,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true" />
   <image
-     sodipodi:absref="/home/deevad/Pepper-and-Carrot/webcomic/2014-07-25_ep02_Rainbow-potions/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E02.png"
-     xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E02.png"
-     width="1100"
-     height="765"
-     id="image10"
+     sodipodi:absref="C:\Users\Frederico\Documents\GitHub\peppercarrot_ep02_translation\en\..\gfx_Pepper-and-Carrot_by-David-Revoy_E02.png"
+     xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E02.png"
+     y="0"
      x="0"
-     y="0" />
+     id="image10"
+     height="765"
+     width="1100" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -140,7 +140,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#301b0b;fill-opacity:1;stroke:none;display:inline;filter:url(#filter3836);font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;fill:#301b0b;fill-opacity:1;stroke:none;filter:url(#filter3836)"
        transform="matrix(0.69723552,0,0,0.69723552,-804.20841,255.15998)"><flowRegion
          id="flowRegion2989"><rect
            id="rect2991"
@@ -150,5 +150,5 @@
            y="644.36664"
            style="fill:#301b0b;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara2993"
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Lavi;-inkscape-font-specification:Lavi">Episode 1 : Rainbow potions</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">Episode 2 : Rainbow potions</flowPara></flowRoot>  </g>
 </svg>
