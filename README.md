@@ -14,6 +14,7 @@ Attribution to : "David Revoy, www.peppercarrot.com"
 ##Translators and correctors : 
 *French : David Revoy
 *English : David Revoy
+*Portuguese : Frederico Batista
 
 ##Fonts:
 New fonts added in this project must be compatible with the CC-By license.
