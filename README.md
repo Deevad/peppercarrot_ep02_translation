@@ -19,6 +19,8 @@ License
 
 * Portuguese : Frederico Batista
 
+* Dutch      : Willem Sonke
+
 
 ## Fonts:
 
