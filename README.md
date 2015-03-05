@@ -13,13 +13,13 @@ License
 
 ## Translators and correctors : 
 
+* Dutch      : Willem Sonke
+
 * English    : David Revoy
 
 * French     : David Revoy
 
 * Portuguese : Frederico Batista
-
-* Dutch      : Willem Sonke
 
 
 ## Fonts:
