@@ -11,13 +11,15 @@ License
 
 [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/)
 
-## Translators and correctors : 
+## Translators and correctors :
 
 * Dutch      : Willem Sonke
 
 * English    : David Revoy
 
 * French     : David Revoy
+
+* German     : Alexandra Jordan / Helmar Suschka
 
 * Japanese   : guruguru
 
@@ -33,7 +35,7 @@ License
 [MFont+ license]　(http://jikasei.me/font/rounded-mplus/license.html), [link] (http://jikasei.me/font/rounded-mplus/about.html)
 
 
-## Artworks : 
+## Artworks :
 
 * David Revoy, www.peppercarrot.com
 
