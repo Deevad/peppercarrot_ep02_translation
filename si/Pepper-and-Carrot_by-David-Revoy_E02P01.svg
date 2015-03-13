@@ -45,7 +45,7 @@
      showgrid="false"
      inkscape:zoom="0.4831148"
      inkscape:cx="1096.1761"
-     inkscape:cy="15682.052"
+     inkscape:cy="835.37776"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -56,7 +56,7 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="D:\T\oth\david\trns\ep2\peppercarrot_ep02_translation-master_si\en\..\gfx_Pepper-and-Carrot_by-David-Revoy_E02P01.png"
+       sodipodi:absref="D:\T\oth\david\trns\ep2\peppercarrot_ep02_translation-master_si\si\..\gfx_Pepper-and-Carrot_by-David-Revoy_E02P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E02P01.png"
        y="0"
        x="-1.6728083e-06"
@@ -475,17 +475,23 @@
        x="1159.5292"
        y="15291.531"
        id="text3417"
-       sodipodi:linespacing="99.000001%"><tspan
+       sodipodi:linespacing="113%"><tspan
          sodipodi:role="line"
-         id="tspan3419"
-         x="1163.5504"
+         x="1174.3903"
          y="15291.531"
-         style="font-size:56.25px;line-height:99.00000095%;text-align:center;letter-spacing:-3.00999999px;text-anchor:middle"
-         dx="0">විවෘත-මූලාශ්‍ර යොදාගෙන නිමවූ මෙම වෙබ්චිත්‍රකතාව සඳහා අරමුදල් සැපයූ </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;line-height:113%;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';text-align:center;letter-spacing:-3.00999999px;text-anchor:middle"
+         id="tspan3424"><tspan
+   dx="0"
+   id="tspan3416"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;line-height:113%;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';text-align:center;letter-spacing:-3.00999999px;text-anchor:middle">විවෘ<tspan
+   style="letter-spacing:1.13999999px"
+   id="tspan3627">ත</tspan><tspan
+   style="letter-spacing:-12.65999997px"
+   id="tspan3434">-</tspan>මූලාශ්‍ර යොදාගෙන නිමවූ මෙම වෙබ්චිත්‍රකතාව සඳහා අරමුදල් සැපයූ </tspan>මාගේ අනුග්‍රාහකයින්ගේ </tspan><tspan
          sodipodi:role="line"
-         x="1158.0243"
-         y="15349.574"
-         id="tspan3421"
-         style="font-size:56.25px;line-height:99.00000095%;text-align:center;letter-spacing:-3.00999999px;text-anchor:middle">මාගේ අනුග්‍රාහකයින්ගේ නම් පහත දැක්වේ. අනුග්‍රාහකයින් ගැන දැනගන්නට පහත ලින්කුවට පිවිසෙන්න.</tspan></text>
+         x="1158.0242"
+         y="15341.031"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;line-height:113%;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';text-align:center;letter-spacing:-3.00999999px;text-anchor:middle"
+         id="tspan3430">නම් පහත දැක්වේ. අනුග්‍රාහකයින් ගැන දැනගන්නට පහත ලින්කුවට පිවිසෙන්න.</tspan></text>
   </g>
 </svg>
