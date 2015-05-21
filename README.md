@@ -1,4 +1,4 @@
-# Pepper&Carrot translation project
+﻿# Pepper&Carrot translation project
 # Episode 02 : Rainbow Potion
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
@@ -12,6 +12,8 @@ License
 [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/)
 
 ## Translators and correctors :
+
+* Català      : Juan José Segura
 
 * Dutch      : Willem Sonke
 
