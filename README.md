@@ -43,6 +43,8 @@ License
 
 * Polish     : Przemysław "Kev" Chudzia
 
+* Vietnamese : Binh Pham
+
 
 ## Fonts:
 
