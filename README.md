@@ -15,17 +15,19 @@ License
 
 * Arabic     : Mahwiii
 
-* Català      : Juan José Segura
+* Català     : Juan José Segura
 
 * Dutch      : Willem Sonke
 
 * English    : David Revoy
 
+* Esperanto  : libre fan
+
 * French     : David Revoy
 
-* German     : Alexandra Jordan / Helmar Suschka
+* German     : Helmar Suschka / Alexandra Jordan
 
-* Greek      : Dimitris Axiotis
+* Greek	     : Dimitris Axiotis
 
 * Italian    : Carlo Gandolfi
 
