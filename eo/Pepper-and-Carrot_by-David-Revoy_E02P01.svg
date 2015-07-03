@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1438"
-     inkscape:window-height="947"
+     inkscape:window-width="1000"
+     inkscape:window-height="939"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.5"
-     inkscape:cx="1307.07"
-     inkscape:cy="14046.486"
-     inkscape:window-x="478"
-     inkscape:window-y="59"
+     inkscape:cx="1145.6132"
+     inkscape:cy="15293"
+     inkscape:window-x="666"
+     inkscape:window-y="35"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <g
@@ -58,11 +58,11 @@
     <image
        sodipodi:absref="/home/deevad/Pepper-and-Carrot/webcomic/2014-07-25_ep02_Rainbow-potions/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E02P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E02P01.png"
-       y="0"
-       x="-1.6728083e-06"
-       id="image10"
+       width="2300"
        height="15990"
-       width="2300" />
+       id="image10"
+       x="-1.6728083e-06"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -750,5 +750,54 @@
            x="494.97476"
            y="2287.6848" /></flowRegion><flowPara
          id="flowPara4123"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#808080;font-family:Lavi;-inkscape-font-specification:Lavi">Averto - Sorĉa Bieno</flowPara></flowRoot>  </g>
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#808080;font-family:Lavi;-inkscape-font-specification:Lavi">Averto - Sorĉa Bieno</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:47.13937759000000227px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#a0892c;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="776.82074"
+       y="72.640427"
+       id="text3764"
+       sodipodi:linespacing="125%"
+       transform="scale(0.97941993,1.0210125)"><tspan
+         sodipodi:role="line"
+         x="776.82074"
+         y="72.640427"
+         id="tspan3766"><tspan
+           x="776.82074"
+           y="72.640427"
+           style="font-size:72px;fill:#a0892c"
+           id="tspan3768"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Risque;-inkscape-font-specification:Risque;fill:#a0892c"
+             id="tspan3782">Pipro </tspan></tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#a0892c;fill-opacity:1;stroke:none;display:inline;font-family:Risque;-inkscape-font-specification:Risque"
+       x="1095.2891"
+       y="109.73"
+       id="text3770"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1095.2891"
+         y="109.73"
+         id="tspan3772"><tspan
+           x="1095.2891"
+           y="109.73"
+           style="font-size:64px;fill:#a0892c"
+           id="tspan3774">kaj</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:86.43595885999999950px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#a0892c;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="1413.1578"
+       y="71.278938"
+       id="text3776"
+       sodipodi:linespacing="125%"
+       transform="scale(0.97261733,1.0281536)"><tspan
+         sodipodi:role="line"
+         x="1413.1578"
+         y="71.278938"
+         id="tspan3778"><tspan
+           x="1413.1578"
+           y="71.278938"
+           style="font-size:72px;font-variant:normal;font-stretch:normal;fill:#a0892c;font-family:Risque;-inkscape-font-specification:Risque"
+           id="tspan3780">Karoĉjo</tspan></tspan></text>
+  </g>
 </svg>
