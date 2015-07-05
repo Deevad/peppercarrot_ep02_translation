@@ -15,6 +15,8 @@ License
 
 * Arabic     : Mahwiii
 
+* Breton     : Stefan Carpentier
+
 * Català     : Juan José Segura
 
 * Dutch      : Willem Sonke
