@@ -19,13 +19,15 @@ License
 
 * Català     : Juan José Segura
 
+* Chinese    : Ran Zhuang
+
 * Dutch      : Willem Sonke
 
 * English    : David Revoy
 
 * Esperanto  : libre fan
 
-* Finnish	   : Kari Lehto
+* Finnish    : Kari Lehto
 
 * French     : David Revoy
 
