@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.91 r"
    width="2300"
    height="15990"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E02P01.svg">
@@ -29,7 +29,47 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs6" />
+     id="defs6">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4402"
+       x="-0.0034005821"
+       width="1.0068012"
+       y="-0.013677411"
+       height="1.0273548">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.082595546"
+         id="feGaussianBlur4404" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4406"
+       x="-0.0032217882"
+       width="1.0064436"
+       y="-0.014776948"
+       height="1.0295539">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.13376918"
+         id="feGaussianBlur4408" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4398"
+       x="-0.0032890984"
+       width="1.0065782"
+       y="-0.013935394"
+       height="1.0278708">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.11702162"
+         id="feGaussianBlur4400" />
+    </filter>
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -43,9 +83,9 @@
      inkscape:window-height="1028"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.36737861"
-     inkscape:cx="1304.2416"
-     inkscape:cy="-25.74564"
+     inkscape:zoom="0.4224854"
+     inkscape:cx="879.23395"
+     inkscape:cy="14229.255"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -56,13 +96,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="D:\GitHub\peppercarrot_ep02_translation\cn\..\gfx_Pepper-and-Carrot_by-David-Revoy_E02P01.png"
+       sodipodi:absref="/home/deevad/Production/Webcomics/2014-07-25_ep02_Rainbow-potions/lang/cn/../gfx_Pepper-and-Carrot_by-David-Revoy_E02P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E02P01.png"
-       width="2300"
-       height="15990"
-       id="image10"
+       y="0"
        x="-1.6728083e-06"
-       y="0" />
+       id="image10"
+       height="15990"
+       width="2300" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -703,5 +743,44 @@
            x="642.38904"
            y="15780.407"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         id="flowPara3634">开源：所有资源，使用字体，图层文件均可在官方网站上下载</flowPara></flowRoot>  </g>
+         id="flowPara3634">开源：所有资源，使用字体，图层文件均可在官方网站上下载</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4325"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;opacity:0.90100002;fill:#2d1a1c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4398)"
+       transform="matrix(1.6120325,-0.17595282,0.27747122,2.5051086,-1287.4763,-2524.6433)"><flowRegion
+         id="flowRegion4327"><rect
+           id="rect4329"
+           width="131.93344"
+           height="14.722872"
+           x="841.07574"
+           y="1755.9342"
+           style="fill:#2d1a1c;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara4335"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:RoboKoz;-inkscape-font-specification:RoboKoz;text-align:center;text-anchor:middle;fill:#2d1a1c;fill-opacity:1">WARNING</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4325-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;opacity:0.878;fill:#221415;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4406)"
+       transform="matrix(1.6120325,-0.17595282,0.27747122,2.5051086,-1260.4872,-2451.9875)"><flowRegion
+         id="flowRegion4327-2"><rect
+           id="rect4329-1"
+           width="110.97581"
+           height="15.861448"
+           x="841.07574"
+           y="1755.9342"
+           style="fill:#221415;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara4335-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:RoboKoz;-inkscape-font-specification:RoboKoz;text-align:center;text-anchor:middle;fill:#221415;fill-opacity:1">PROPERTY</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4325-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;opacity:0.92000002;fill:#241516;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4402)"
+       transform="matrix(2.3476299,-0.23519372,0.40408599,3.3485443,-2175.2301,-3915.3688)"><flowRegion
+         id="flowRegion4327-0"><rect
+           id="rect4329-16"
+           width="131.93344"
+           height="14.722872"
+           x="841.07574"
+           y="1755.9342"
+           style="fill:#241516;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara4335-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:RoboKoz;-inkscape-font-specification:RoboKoz;text-align:center;text-anchor:middle;fill:#241516;fill-opacity:1">WITCH</flowPara></flowRoot>  </g>
 </svg>
