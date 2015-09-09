@@ -21,6 +21,8 @@ License
 
 * Chinese    : Ran Zhuang
 
+* Dansk      : Marie Moestrup og Juan José Segura
+
 * Dutch      : Willem Sonke
 
 * English    : David Revoy
