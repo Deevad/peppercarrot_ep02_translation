@@ -83,9 +83,9 @@
      inkscape:window-height="1056"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.48585822"
-     inkscape:cx="682.35251"
-     inkscape:cy="1111.5365"
+     inkscape:zoom="0.73892962"
+     inkscape:cx="722.76468"
+     inkscape:cy="14292.623"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -96,13 +96,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/oet/peppercarrot/peppercarrot_ep02_translation/sv/../gfx_Pepper-and-Carrot_by-David-Revoy_E02P01.png"
+       sodipodi:absref="/home/deevad/Production/Webcomics/2014-07-25_ep02_Rainbow-potions/lang/sv/../gfx_Pepper-and-Carrot_by-David-Revoy_E02P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E02P01.png"
-       width="2300"
-       height="15990"
-       id="image10"
+       y="0"
        x="-1.6728083e-06"
-       y="0" />
+       id="image10"
+       height="15990"
+       width="2300" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -788,7 +788,7 @@
        xml:space="preserve"
        id="flowRoot4325"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;opacity:0.90100002;fill:#2d1a1c;fill-opacity:1;stroke:#000000;stroke-width:0.28673479;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4398)"
-       transform="matrix(2.3113205,-0.30278234,0.49909023,3.3025182,-2314.6143,-3812.7829)"><flowRegion
+       transform="matrix(2.3113205,-0.30278234,0.49909023,3.3025182,-2314.6143,-3814.5625)"><flowRegion
          id="flowRegion4327"><rect
            id="rect4329"
            width="131.93344"
@@ -801,7 +801,7 @@
        xml:space="preserve"
        id="flowRoot4325-5"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;opacity:0.878;fill:#221415;fill-opacity:1;stroke:#000000;stroke-width:0.3171955;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4406)"
-       transform="matrix(2.2815356,-0.17511805,0.30174872,2.5308627,-1907.4991,-2494.9666)"><flowRegion
+       transform="matrix(2.2815356,-0.17511805,0.30174872,2.5308627,-1904.8296,-2494.0768)"><flowRegion
          id="flowRegion4327-2"><rect
            id="rect4329-1"
            width="110.97581"
@@ -814,7 +814,7 @@
        xml:space="preserve"
        id="flowRoot4325-9"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;opacity:0.92000002;fill:#241516;fill-opacity:1;stroke:#000000;stroke-width:0.23315693;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4402)"
-       transform="matrix(3.0201281,-0.28912322,0.57512983,3.5613405,-3088.6447,-4242.2909)"><flowRegion
+       transform="matrix(3.0201281,-0.28912322,0.57512983,3.5613405,-3085.9752,-4241.4011)"><flowRegion
          id="flowRegion4327-0"><rect
            id="rect4329-16"
            width="131.93344"
