@@ -51,6 +51,8 @@ License
 
 * Spanish    : TheFaico
 
+* Swedish    : Quiphius
+
 * Ukrainian  : Leonid "Deburger" Androschuk
 
 * Polish     : Przemysław "Kev" Chudzia
