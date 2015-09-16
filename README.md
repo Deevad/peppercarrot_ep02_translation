@@ -1,5 +1,5 @@
-# Pepper&Carrot translation project
-# Episode 02 : Rainbow Potion
+﻿# Pepper&Carrot translation project
+# Episode 02: Rainbow Potion
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
 
@@ -11,62 +11,70 @@ License
 
 [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/)
 
-## Translators and correctors :
+## Translators and correctors:
 
-* Dutch      : Willem Sonke
+* Arabic: Mahwiii
 
-* English    : David Revoy
+* Bengali: Hulo Biral the Tomcat
 
-* French     : David Revoy
+* Breton: Stefan Carpentier
 
-* German     : Alexandra Jordan / Helmar Suschka
+* Català: Juan José Segura
 
-* Greek      : Dimitris Axiotis
+* Chinese: Ran Zhuang
 
-* Japanese   : guruguru
+* Dansk: Marie Moestrup og Juan José Segura
 
-* Portuguese : Frederico Batista
+* Dutch: Willem Sonke
 
-* Russian    : Denis "uncle Night" Prisukhin
+* English: David Revoy
 
-* Sinhala    : Tharinda Divakara
+* Esperanto: libre fan
 
-* Spanish    : TheFaico
+* Finnish: Kari Lehto
 
-* Ukrainian  : Leonid "Deburger" Androschuk
+* French: David Revoy
 
-* Polish     : Przemysław "Kev" Chudzia
+* German: Helmar Suschka / Alexandra Jordan
+
+* Indonesian: Bonaventura Aditya Perdana
+
+* Greek: Dimitris Axiotis
+
+* Hungarian: Halász Gábor "Hali"
+
+* Italian: Carlo Gandolfi
+
+* Japanese: guruguru
+
+* Polish: Przemysław "Kev" Chudzia, Sölve Svartskogen
+
+* Portuguese: Frederico Batista
+
+* Russian: Denis "uncle Night" Prisukhin
+
+* Sinhala: Tharinda Divakara
+
+* Spanish: TheFaico
+
+* Swedish: Quiphius
+
+* Ukrainian: Leonid "Deburger" Androschuk
+
+* Vietnamese: Binh Pham
 
 
-## Fonts:
+## Artwork:
 
-* Blogger by Sergiy S. Tkachenko
-[CC-BY](http://creativecommons.org/licenses/by/3.0/), [link](http://openfontlibrary.org/en/font/blogger-sans)
-
-* Lavi by Ruben Holthuijsen aka Rholt
-[GNU GPL V3](http://www.gnu.org/copyleft/gpl.html), [link](http://www.dafont.com/lavi.font)
-
-* Rounded-mplus-1c-medium.ttf from Rounded M+ by MM
-[MFont+ license](http://jikasei.me/font/rounded-mplus/license.html), [link](http://jikasei.me/font/rounded-mplus/about.html)
-
-* Pecita by OFL user Pecita
-[OFL (SIL Open Font Licence)](scripts.sil.org/OFL), [link](http://openfontlibrary.org/font/pecita)
-
-* Bashita Complex Bold by the ICT Agency (ICTA) of Sri Lanka
-[Creative Commons Attribution](https://creativecommons.org/licenses/by/3.0/), [link](http://www.icta.lk/index.php?option=com_content&view=article&id=1497:sinhala-tamil-unicode-fonts-bhashitha-and-sritamil&catid=104&Itemid=234&lang=en)
-
-* Neucha by [Jovanny Lemonad](https://plus.google.com/115426726897976242009/about), [SIL Open Font License](http://scripts.sil.org/OFL), [link](https://www.google.com/fonts/specimen/Neucha)
-
-## Artworks :
-
-* David Revoy, www.peppercarrot.com
+* David Revoy, [www.peppercarrot.com](www.peppercarrot.com)
 
 
-Infos :
-=======
+## Info:
 
-- Translation/Correction [full how-to documentation](http://www.peppercarrot.com/fr/article267/how-to-add-a-translation-or-a-correction)
+- Documentation: Translation/Correction full how-to documentation can be read [on the official website here](http://www.peppercarrot.com/fr/article267/how-to-add-a-translation-or-a-correction).
 
-- Ressources added in this project must be compatible with the CC-By license ( fonts, images, etc ). Are compatible : Public domain fonts, GNU/GPL fonts, CC-0 fonts, CC-BY fonts, SIL Open Font License (OFL). Adding author name plus a link and license is appreciated.
+- License agreement: Authors of all translations or contributions to this project accept to release this translation work under the license: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
-- Do not edit or propose a commit for the artworks in this repositories. Artworks here are low-resolution proxy files only. The real hi-res layered artworks,  *.kra files, are [available here] www.peppercarrot.com/static6/sources.
+- Graphics: Do not edit or propose a commit for the artwork in these repositories (gfx_ PNG files). Artwork here are low-resolution proxy files only. The real hi-res layered artwork, kra files, are [available here](http://www.peppercarrot.com/en/static6/sources) and are too heavy to be shared on Github. Do a modification, host them, then send me the link to them.
+
+- Fonts: as a common resources, fonts are hosted on their own Github repository [here  github.com/Deevad/peppercarrot_fonts](https://github.com/Deevad/peppercarrot_fonts). All informations about font authors, licenses and links are managed on the README of this external repository. You can download the pack directly here: [github.com/Deevad/peppercarrot_fonts/archive/master.zip](https://github.com/Deevad/peppercarrot_fonts/archive/master.zip)
