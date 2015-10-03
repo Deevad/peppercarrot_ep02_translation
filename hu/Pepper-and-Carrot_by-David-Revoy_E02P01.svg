@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    width="2300"
    height="15990"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E02P01.svg">
@@ -83,9 +83,9 @@
      inkscape:window-height="745"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.63891932"
-     inkscape:cx="662.20287"
-     inkscape:cy="14506.902"
+     inkscape:zoom="0.45178418"
+     inkscape:cx="1172.94"
+     inkscape:cy="14568.322"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -96,13 +96,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/Production/Webcomics/2014-07-25_ep02_Rainbow-potions/lang/hu/../gfx_Pepper-and-Carrot_by-David-Revoy_E02P01.png"
+       sodipodi:absref="E:\Projects\Pepper&amp;Carrot\peppercarrot_ep02_translation\hu\..\gfx_Pepper-and-Carrot_by-David-Revoy_E02P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E02P01.png"
-       width="2300"
-       height="15990"
-       id="image10"
+       y="0"
        x="-1.6728083e-06"
-       y="0" />
+       id="image10"
+       height="15990"
+       width="2300" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -805,31 +805,6 @@
          id="tspan3176-0"
          x="1369.5836"
          y="95.241661">Sárgarépa</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#562f13;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       x="394.95178"
-       y="1568.9969"
-       id="text3976"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="394.95178"
-         y="1568.9969"
-         id="tspan3980">Vigyázat!</tspan><tspan
-         sodipodi:role="line"
-         x="394.95178"
-         y="1618.9969"
-         id="tspan3984">Boszorkány</tspan><tspan
-         sodipodi:role="line"
-         x="394.95178"
-         y="1668.9969"
-         id="tspan3986">tulajdon</tspan></text>
-    <path
-       style="fill:none;stroke:#562f13;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 436.7492,1682.8415 c 22.76892,70.3767 122.12418,80.7262 122.12418,80.7262"
-       id="path3992"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4325"
@@ -843,7 +818,7 @@
            y="1755.9342"
            style="fill:#2d1a1c;fill-opacity:1;stroke:#000000;stroke-width:0.28673479;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
          id="flowPara4335"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Fondamento;-inkscape-font-specification:Fondamento;text-align:center;text-anchor:middle;fill:#2d1a1c;fill-opacity:1;stroke:#000000;stroke-width:0.28673479;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">WARNING</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Fondamento;-inkscape-font-specification:Fondamento;text-align:center;text-anchor:middle;fill:#2d1a1c;fill-opacity:1;stroke:#000000;stroke-width:0.28673479;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">VIGYÁZAT!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4325-5"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;opacity:0.878;fill:#221415;fill-opacity:1;stroke:#000000;stroke-width:0.3171955;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4406)"
@@ -856,18 +831,18 @@
            y="1755.9342"
            style="fill:#221415;fill-opacity:1;stroke:#000000;stroke-width:0.3171955;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
          id="flowPara4335-3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Fondamento;-inkscape-font-specification:Fondamento;text-align:center;text-anchor:middle;fill:#221415;fill-opacity:1;stroke:#000000;stroke-width:0.3171955;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">PROPERTY</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Fondamento;-inkscape-font-specification:Fondamento;text-align:center;text-anchor:middle;fill:#221415;fill-opacity:1;stroke:#000000;stroke-width:0.3171955;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">BIRTOK</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4325-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;opacity:0.92000002;fill:#241516;fill-opacity:1;stroke:#000000;stroke-width:0.23315693;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4402)"
-       transform="matrix(3.0201281,-0.28912322,0.57512983,3.5613405,-3088.6447,-4242.2907)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.56465578px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;opacity:0.92000002;fill:#241516;fill-opacity:1;stroke:#000000;stroke-width:0.23315693;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4402)"
+       transform="matrix(3.0201281,-0.28912322,0.57512983,3.5613405,-3082.6447,-4234.2907)"><flowRegion
          id="flowRegion4327-0"><rect
            id="rect4329-16"
            width="131.93344"
            height="14.722872"
            x="841.07574"
            y="1755.9342"
-           style="fill:#241516;fill-opacity:1;stroke:#000000;stroke-width:0.23315693;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+           style="font-size:7.56465578px;fill:#241516;fill-opacity:1;stroke:#000000;stroke-width:0.23315693;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
          id="flowPara4335-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Fondamento;-inkscape-font-specification:Fondamento;text-align:center;text-anchor:middle;fill:#241516;fill-opacity:1;stroke:#000000;stroke-width:0.23315693;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">WITCH</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.56465578px;font-family:Fondamento;-inkscape-font-specification:Fondamento;text-align:center;text-anchor:middle;fill:#241516;fill-opacity:1;stroke:#000000;stroke-width:0.23315693;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">BOSZORKÁNY</flowPara></flowRoot>  </g>
 </svg>
