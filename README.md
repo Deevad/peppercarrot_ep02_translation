@@ -57,6 +57,8 @@ License
 
 * Sinhala: Tharinda Divakara
 
+* Slovak: talime
+
 * Spanish: TheFaico
 
 * Swedish: Quiphius
