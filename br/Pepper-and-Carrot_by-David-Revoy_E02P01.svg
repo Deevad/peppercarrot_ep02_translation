@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.48.4 r9939"
    width="2300"
    height="15990"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E02P01.svg">
@@ -29,47 +29,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs6">
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter4402"
-       x="-0.0034005821"
-       width="1.0068012"
-       y="-0.013677411"
-       height="1.0273548">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.082595546"
-         id="feGaussianBlur4404" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter4406"
-       x="-0.0032217882"
-       width="1.0064436"
-       y="-0.014776948"
-       height="1.0295539">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.13376918"
-         id="feGaussianBlur4408" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter4398"
-       x="-0.0032890984"
-       width="1.0065782"
-       y="-0.013935394"
-       height="1.0278708">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.11702162"
-         id="feGaussianBlur4400" />
-    </filter>
-  </defs>
+     id="defs6" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -79,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="838"
+     inkscape:window-width="1381"
+     inkscape:window-height="876"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.84976905"
-     inkscape:cx="667.44021"
-     inkscape:cy="14271.112"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.36737861"
+     inkscape:cx="1304.2416"
+     inkscape:cy="15500.381"
+     inkscape:window-x="59"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -96,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/Production/Webcomics/2014-07-25_ep02_Rainbow-potions/lang/br/../gfx_Pepper-and-Carrot_by-David-Revoy_E02P01.png"
+       sodipodi:absref="/home/stefan/Dropbox/Pepper&amp;Carrot/peppercarrot_ep02_translation-master/peppercarrot_ep02_translation-master/br/..\gfx_Pepper-and-Carrot_by-David-Revoy_E02P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E02P01.png"
-       width="2300"
-       height="15990"
-       id="image10"
+       y="0"
        x="-1.6728083e-06"
-       y="0" />
+       id="image10"
+       height="15990"
+       width="2300" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -111,7 +71,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3063"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;fill:#562f13;fill-opacity:1;stroke:none"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#562f13;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
        transform="matrix(0.72151821,0,0,0.71749781,101.82201,-12.228997)"><flowRegion
          id="flowRegion3065"><rect
            id="rect3067"
@@ -121,7 +81,7 @@
            y="425.30325"
            style="font-size:72px;fill:#562f13;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara3069"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:88px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#562f13;fill-opacity:1">Rann 2 : Ar braouedoù gwareg-ar-glav</flowPara></flowRoot>    <flowRoot
+         style="font-size:88px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#562f13;fill-opacity:1;font-family:Lavi;-inkscape-font-specification:Lavi">Rann 2 : An drammoù gwareg-ar-glav</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3063-8"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#e69d76;fill-opacity:1;fill-rule:nonzero;stroke:#e99f77;stroke-width:4.3819828;stroke-opacity:1;marker:none;enable-background:accumulate"
@@ -781,44 +741,5 @@
            y="15665.729"
            style="text-align:center;text-anchor:middle;fill:#777967;fill-opacity:1" /></flowRegion><flowPara
          style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#777967;fill-opacity:1;font-family:Lavi;-inkscape-font-specification:Lavi"
-         id="flowPara3582-2-8">fait avec Krita sur Gnu/Linux</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4325"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;opacity:0.90100002;fill:#2d1a1c;fill-opacity:1;stroke:#000000;stroke-width:0.28673479;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4398)"
-       transform="matrix(2.3113205,-0.30278234,0.49909023,3.3025182,-2314.6143,-3812.7827)"><flowRegion
-         id="flowRegion4327"><rect
-           id="rect4329"
-           width="131.93344"
-           height="14.722872"
-           x="841.07574"
-           y="1755.9342"
-           style="fill:#2d1a1c;fill-opacity:1;stroke:#000000;stroke-width:0.28673479;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
-         id="flowPara4335"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Fondamento;-inkscape-font-specification:Fondamento;text-align:center;text-anchor:middle;fill:#2d1a1c;fill-opacity:1;stroke:#000000;stroke-width:0.28673479;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">WARNING</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4325-5"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;opacity:0.878;fill:#221415;fill-opacity:1;stroke:#000000;stroke-width:0.3171955;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4406)"
-       transform="matrix(2.2815356,-0.17511805,0.30174872,2.5308627,-1907.4991,-2494.9664)"><flowRegion
-         id="flowRegion4327-2"><rect
-           id="rect4329-1"
-           width="110.97581"
-           height="15.861448"
-           x="841.07574"
-           y="1755.9342"
-           style="fill:#221415;fill-opacity:1;stroke:#000000;stroke-width:0.3171955;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
-         id="flowPara4335-3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Fondamento;-inkscape-font-specification:Fondamento;text-align:center;text-anchor:middle;fill:#221415;fill-opacity:1;stroke:#000000;stroke-width:0.3171955;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">PROPERTY</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4325-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;opacity:0.92000002;fill:#241516;fill-opacity:1;stroke:#000000;stroke-width:0.23315693;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4402)"
-       transform="matrix(3.0201281,-0.28912322,0.57512983,3.5613405,-3088.6447,-4242.2907)"><flowRegion
-         id="flowRegion4327-0"><rect
-           id="rect4329-16"
-           width="131.93344"
-           height="14.722872"
-           x="841.07574"
-           y="1755.9342"
-           style="fill:#241516;fill-opacity:1;stroke:#000000;stroke-width:0.23315693;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
-         id="flowPara4335-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Fondamento;-inkscape-font-specification:Fondamento;text-align:center;text-anchor:middle;fill:#241516;fill-opacity:1;stroke:#000000;stroke-width:0.23315693;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">WITCH</flowPara></flowRoot>  </g>
+         id="flowPara3582-2-8">fait avec Krita sur Gnu/Linux</flowPara></flowRoot>  </g>
 </svg>
