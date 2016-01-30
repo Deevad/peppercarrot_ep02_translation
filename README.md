@@ -5,11 +5,12 @@
 
 ![alt tag](gfx_Pepper-and-Carrot_by-David-Revoy_E02.png)
 
+2016-01-08: To compile this episode before the 2016 refactoring, you'll need older Krita sources files in 2016-01-08_ep02_Potion-of-Flight.zip (available in /src folder of the episode [http://www.peppercarrot.com/0_sources/](http://www.peppercarrot.com/0_sources/)).
 
 License
 =======
 
-[Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/)
+[Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## Translators and correctors:
 
@@ -53,9 +54,13 @@ License
 
 * Portuguese: Frederico Batista
 
+* Romanian: Costin-Sorin Ionescu
+
 * Russian: Denis "uncle Night" Prisukhin
 
 * Sinhala: Tharinda Divakara
+
+* Slovak: talime
 
 * Spanish: TheFaico
 
@@ -69,6 +74,26 @@ License
 ## Artwork:
 
 * David Revoy, [www.peppercarrot.com](www.peppercarrot.com)
+
+
+## Downloads:
+
+To download ready to use pages, higher resolutions and more visit:
+
+[http://www.peppercarrot.com/0_sources/](http://www.peppercarrot.com/0_sources/)
+
+
+This folder contains all ready to use built pages in all available language :
+
+* low-resolutions pages (low-res folder, 992px large, Jpeg 92% quality)
+
+* high-resolution (hi-res folder, 2481px large, Jpeg 95% quality)
+
+* graphics only pages (gfx-only subfolder under low-res and hi-res)
+
+* Long strip version in a long single picture (lowres/single-page, Jpeg 92% quality)
+
+* Krita original sources files (zip folder, zipped kra files) 
 
 
 ## Info:
