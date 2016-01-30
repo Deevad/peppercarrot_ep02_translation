@@ -163,7 +163,7 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.75163399"
-     inkscape:cx="550"
+     inkscape:cx="546.0087"
      inkscape:cy="382.5"
      inkscape:window-x="-4"
      inkscape:window-y="-4"
@@ -178,11 +178,11 @@
   <image
      sodipodi:absref="/home/next_ghost/src/pepper_carrot/ep2/cs/../gfx_Pepper-and-Carrot_by-David-Revoy_E02.png"
      xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E02.png"
-     y="0"
-     x="0"
-     id="image10"
+     width="1100"
      height="765"
-     width="1100" />
+     id="image10"
+     x="0"
+     y="0" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
