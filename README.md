@@ -1,4 +1,4 @@
-﻿# Pepper&Carrot translation project
+# Pepper&Carrot translation project
 # Episode 02: Rainbow Potion
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
@@ -20,13 +20,13 @@ License
 
 * Breton: Stefan Carpentier
 
-* Catalan: Juan José Segura
+* Catalan: Juan Jos? Segura
 
 * Chinese: Ran Zhuang
 
 * Czech: Martin Doucha
 
-* Dansk: Marie Moestrup og Juan José Segura
+* Dansk: Marie Moestrup og Juan Jos? Segura
 
 * Dutch: Willem Sonke
 
@@ -42,9 +42,9 @@ License
 
 * Indonesian: Bonaventura Aditya Perdana
 
-* Greek: Dimitris Axiotis
+* Greek: Dimitris Axiotis / George Karettas
 
-* Hungarian: Halász Gábor "Hali"
+* Hungarian: Hal?sz G?bor "Hali"
 
 * Italian: Carlo Gandolfi
 
@@ -54,7 +54,7 @@ License
 
 * Lojban: Gleki Arxokuna
 
-* Polish: Przemysław "Kev" Chudzia, Sölve Svartskogen
+* Polish: Przemys?aw "Kev" Chudzia, S?lve Svartskogen
 
 * Portuguese: Frederico Batista
 
