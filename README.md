@@ -42,7 +42,7 @@ License
 
 * Indonesian: Bonaventura Aditya Perdana
 
-* Greek: Dimitris Axiotis
+* Greek: Dimitris Axiotis / George Karettas
 
 * Hungarian: Halász Gábor "Hali"
 
