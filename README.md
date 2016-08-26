@@ -50,6 +50,8 @@ License
 
 * Japanese: guruguru
 
+* Korean: Shikamaru Yamamoto
+
 * Latin: Guillaume Lestringant
 
 * Lojban: Gleki Arxokuna
