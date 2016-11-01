@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,9 +43,9 @@
      inkscape:window-height="1056"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.38392436"
-     inkscape:cx="1510.6712"
-     inkscape:cy="525.13884"
+     inkscape:zoom="0.49788186"
+     inkscape:cx="1402.5132"
+     inkscape:cy="27.755342"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/thomas/Data/Copy/PepperCarrot/peppercarrot_ep02_translation-master/no/../gfx_Pepper-and-Carrot_by-David-Revoy_E02P06.png"
+       sodipodi:absref="/home/thomas/Data/Copy/PepperCarrot/Git/peppercarrot_ep02_translation/no/../gfx_Pepper-and-Carrot_by-David-Revoy_E02P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E02P06.png"
-       width="2481"
-       height="900"
-       id="image10"
+       y="0"
        x="-1.6728083e-06"
-       y="0" />
+       id="image10"
+       height="900"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -121,5 +121,9 @@
            width="2021.3717"
            id="rect3355" /></flowRegion><flowPara
          id="flowPara3357"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.9086113px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#485a48;fill-opacity:1">Denne stripa er åpen kildekode og denne episoden ble finasniert av mine 21 støttespillere på</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.9086113px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#485a48;fill-opacity:1">Denne stripa er <flowSpan
+   style="font-size:40.31272599px"
+   id="flowSpan4151">å</flowSpan>pen kildekode og denne episoden ble finansiert av mine 21 støttespillere p<flowSpan
+   style="font-size:40.31272599px"
+   id="flowSpan4157">å</flowSpan></flowPara></flowRoot>  </g>
 </svg>
