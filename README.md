@@ -52,6 +52,8 @@ License
 
 * Korean: Shikamaru Yamamoto
 
+* Kotava: Erwhann-Rouge / webmistusik
+
 * Latin: Guillaume Lestringant
 
 * Lojban: Gleki Arxokuna
