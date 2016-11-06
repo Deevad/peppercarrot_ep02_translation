@@ -84,8 +84,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.31489769"
-     inkscape:cx="1139.3707"
-     inkscape:cy="413.75715"
+     inkscape:cx="1083.7971"
+     inkscape:cy="1938.0618"
      inkscape:window-x="0"
      inkscape:window-y="41"
      inkscape:window-maximized="0"
@@ -98,11 +98,11 @@
     <image
        sodipodi:absref="/home/erwhann/Documents/Traduction/Pepper et Carrot/peppercarrot_ep02_translation/kt/../gfx_Pepper-and-Carrot_by-David-Revoy_E02P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E02P01.png"
-       y="0"
-       x="-1.6728083e-06"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="-1.6728083e-06"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -189,5 +189,5 @@
            y="1755.9342"
            style="font-size:12.34025097px;fill:#241516;fill-opacity:1;stroke:#000000;stroke-width:0.23315693;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
          id="flowPara4335-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.34025097px;font-family:Fondamento;-inkscape-font-specification:Fondamento;text-align:center;text-anchor:middle;fill:#241516;fill-opacity:1;stroke:#000000;stroke-width:0.23315693;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">DIWIKYA</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.34025097px;font-family:Fondamento;-inkscape-font-specification:Fondamento;text-align:center;text-anchor:middle;fill:#241516;fill-opacity:1;stroke:#000000;stroke-width:0.23315693;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">DIWIK</flowPara></flowRoot>  </g>
 </svg>
