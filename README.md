@@ -52,7 +52,7 @@ License
 
 * Japanese: guruguru
 
-* Korean: Shikamaru Yamamoto
+* Korean: Shikamaru Yamamoto, Jihoon Kim
 
 * Kotava: Erwhann-Rouge / webmistusik
 
