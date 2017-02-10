@@ -32,7 +32,7 @@ License
 
 * English: David Revoy
 
-* Esperanto: Libre fan (librefan.eu.org)
+* Esperanto: Libre fan (librefan.eu.org), Spenĉjo
 
 * Farsi: Aslan Zamanloo
 
