@@ -12,11 +12,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.92.1 renderfarm"
    width="2481"
    height="3503"
-   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E02P05.svg">
-  <metadata
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E02P05_092.svg">
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1813" inkscape:window-height="955" id="namedview70" showgrid="false" inkscape:zoom="0.4" inkscape:cx="1284.4231" inkscape:cy="2618.6204" inkscape:current-layer="layer1" /><metadata
      id="metadata8">
     <rdf:RDF>
       <cc:Work
@@ -40,14 +40,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1056"
+     inkscape:window-height="1026"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.25606623"
-     inkscape:cx="1240.5"
-     inkscape:cy="1751.5"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:cx="1248.3105"
+     inkscape:cy="1712.4476"
+     inkscape:window-x="1920"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      showguides="true"
@@ -58,13 +58,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/el/../gfx_Pepper-and-Carrot_by-David-Revoy_E02P05.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep02_Rainbow-potions/lang/el/../gfx_Pepper-and-Carrot_by-David-Revoy_E02P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E02P05.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="-1.6728083e-06"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -73,7 +73,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot4052-0-1-3-3-0-5"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#ff0145;fill-opacity:1;fill-rule:nonzero;stroke:#ff0145;stroke-width:2.06473064;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#ff0145;fill-opacity:1;fill-rule:nonzero;stroke:#ff0145;stroke-width:2.06473064;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
        transform="matrix(1.2892785,-0.14753782,0.39943039,1.0105568,779.63267,840.852)"><flowRegion
          id="flowRegion4054-7-0-2-2-5-5"
          style="stroke-width:4.93332052"><rect
@@ -83,11 +83,11 @@
            x="92.642677"
            y="425.30325"
            style="color:#000000;font-size:72px;display:inline;overflow:visible;visibility:visible;fill:#ff0145;fill-opacity:1;fill-rule:nonzero;stroke:#ff0145;stroke-width:2.06473064;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" /></flowRegion><flowPara
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:Pecita;-inkscape-font-specification:'Pecita Bold';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ff0145;fill-opacity:1;fill-rule:nonzero;stroke:#ff0145;stroke-width:2.06473064;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:1.25;font-family:Pecita;-inkscape-font-specification:'Pecita Bold';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ff0145;fill-opacity:1;fill-rule:nonzero;stroke:#ff0145;stroke-width:2.06473064;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
          id="flowPara4058-8-1-3-0-6-1">Μπ</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4052-0-1-3-3-0-5-1"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#ff0145;fill-opacity:1;fill-rule:nonzero;stroke:#ff0145;stroke-width:2.95391536;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#ff0145;fill-opacity:1;fill-rule:nonzero;stroke:#ff0145;stroke-width:2.95391536;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
        transform="matrix(0.76505307,-0.12147565,0.2370205,0.83204455,1015.8139,911.396)"><flowRegion
          id="flowRegion4054-7-0-2-2-5-5-9"
          style="stroke-width:7.05787563"><rect
@@ -97,11 +97,11 @@
            x="92.642677"
            y="425.30325"
            style="color:#000000;font-size:72px;display:inline;overflow:visible;visibility:visible;fill:#ff0145;fill-opacity:1;fill-rule:nonzero;stroke:#ff0145;stroke-width:2.95391536;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" /></flowRegion><flowPara
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:Pecita;-inkscape-font-specification:'Pecita Bold';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ff0145;fill-opacity:1;fill-rule:nonzero;stroke:#ff0145;stroke-width:2.95391536;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:1.25;font-family:Pecita;-inkscape-font-specification:'Pecita Bold';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ff0145;fill-opacity:1;fill-rule:nonzero;stroke:#ff0145;stroke-width:2.95391536;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
          id="flowPara4058-8-1-3-0-6-1-3">λούπ</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4052-0-1-3-3-0-5-5"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#ff3c70;fill-opacity:1;fill-rule:nonzero;stroke:#ff3c70;stroke-width:2.06473064;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#ff3c70;fill-opacity:1;fill-rule:nonzero;stroke:#ff3c70;stroke-width:2.06473064;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
        transform="matrix(1.2892785,-0.14753782,0.39943039,1.0105568,770.13635,902.223)"><flowRegion
          id="flowRegion4054-7-0-2-2-5-5-2"
          style="stroke-width:4.93332052"><rect
@@ -111,11 +111,11 @@
            x="92.642677"
            y="425.30325"
            style="color:#000000;font-size:72px;display:inline;overflow:visible;visibility:visible;fill:#ff3c70;fill-opacity:1;fill-rule:nonzero;stroke:#ff3c70;stroke-width:2.06473064;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" /></flowRegion><flowPara
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:Pecita;-inkscape-font-specification:'Pecita Bold';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ff3c70;fill-opacity:1;fill-rule:nonzero;stroke:#ff3c70;stroke-width:2.06473064;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:1.25;font-family:Pecita;-inkscape-font-specification:'Pecita Bold';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ff3c70;fill-opacity:1;fill-rule:nonzero;stroke:#ff3c70;stroke-width:2.06473064;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
          id="flowPara4058-8-1-3-0-6-1-0">Μπ</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4052-0-1-3-3-0-5-1-5"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#ff3c70;fill-opacity:1;fill-rule:nonzero;stroke:#ff3c70;stroke-width:2.95391536;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#ff3c70;fill-opacity:1;fill-rule:nonzero;stroke:#ff3c70;stroke-width:2.95391536;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
        transform="matrix(0.76505307,-0.12147565,0.2370205,0.83204455,991.296,973.783)"><flowRegion
          id="flowRegion4054-7-0-2-2-5-5-9-7"
          style="stroke-width:7.05787563"><rect
@@ -125,11 +125,11 @@
            x="92.642677"
            y="425.30325"
            style="color:#000000;font-size:72px;display:inline;overflow:visible;visibility:visible;fill:#ff3c70;fill-opacity:1;fill-rule:nonzero;stroke:#ff3c70;stroke-width:2.95391536;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" /></flowRegion><flowPara
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:Pecita;-inkscape-font-specification:'Pecita Bold';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ff3c70;fill-opacity:1;fill-rule:nonzero;stroke:#ff3c70;stroke-width:2.95391536;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:1.25;font-family:Pecita;-inkscape-font-specification:'Pecita Bold';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ff3c70;fill-opacity:1;fill-rule:nonzero;stroke:#ff3c70;stroke-width:2.95391536;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
          id="flowPara4058-8-1-3-0-6-1-3-0">λούπ</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4052-0-1-3-3-0-5-1-5-3"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#fe801c;fill-opacity:1;fill-rule:nonzero;stroke:#fe801c;stroke-width:2.39221978;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#fe801c;fill-opacity:1;fill-rule:nonzero;stroke:#fe801c;stroke-width:2.39221978;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
        transform="matrix(1.1229715,0.08536525,-0.07439571,1.2029254,1070.4399,2397.859)"><flowRegion
          id="flowRegion4054-7-0-2-2-5-5-9-7-0"
          style="stroke-width:5.71580029"><rect
@@ -139,11 +139,11 @@
            x="92.642677"
            y="425.30325"
            style="color:#000000;font-size:72px;display:inline;overflow:visible;visibility:visible;fill:#fe801c;fill-opacity:1;fill-rule:nonzero;stroke:#fe801c;stroke-width:2.39221978;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" /></flowRegion><flowPara
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:Pecita;-inkscape-font-specification:'Pecita Bold';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#fe801c;fill-opacity:1;fill-rule:nonzero;stroke:#fe801c;stroke-width:2.39221978;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:1.25;font-family:Pecita;-inkscape-font-specification:'Pecita Bold';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#fe801c;fill-opacity:1;fill-rule:nonzero;stroke:#fe801c;stroke-width:2.39221978;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
          id="flowPara4058-8-1-3-0-6-1-3-0-3">τς</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4052-0-1-3-3-0-5-1-5-3-2"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#fe801c;fill-opacity:1;fill-rule:nonzero;stroke:#fe801c;stroke-width:2.39221978;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#fe801c;fill-opacity:1;fill-rule:nonzero;stroke:#fe801c;stroke-width:2.39221978;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
        transform="matrix(1.1229715,-0.45586018,-0.07439571,1.2387811,1010.5359,2471.221)"><flowRegion
          id="flowRegion4054-7-0-2-2-5-5-9-7-0-7"
          style="stroke-width:5.71580029"><rect
@@ -153,11 +153,11 @@
            x="92.642677"
            y="425.30325"
            style="color:#000000;font-size:72px;display:inline;overflow:visible;visibility:visible;fill:#fe801c;fill-opacity:1;fill-rule:nonzero;stroke:#fe801c;stroke-width:2.39221978;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" /></flowRegion><flowPara
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:Pecita;-inkscape-font-specification:'Pecita Bold';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#fe801c;fill-opacity:1;fill-rule:nonzero;stroke:#fe801c;stroke-width:2.39221978;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:1.25;font-family:Pecita;-inkscape-font-specification:'Pecita Bold';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#fe801c;fill-opacity:1;fill-rule:nonzero;stroke:#fe801c;stroke-width:2.39221978;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
          id="flowPara4058-8-1-3-0-6-1-3-0-3-3">λά</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4052-0-1-3-3-0-5-1-5-3-2-4"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#fe801c;fill-opacity:1;fill-rule:nonzero;stroke:#fe801c;stroke-width:2.39221978;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#fe801c;fill-opacity:1;fill-rule:nonzero;stroke:#fe801c;stroke-width:2.39221978;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
        transform="matrix(1.446942,-1.106708,-0.09585842,1.8003645,910.2115,2337.695)"
        inkscape:transform-center-x="40.943796"
        inkscape:transform-center-y="9.0811815"><flowRegion
@@ -169,11 +169,11 @@
            x="92.642677"
            y="425.30325"
            style="color:#000000;font-size:72px;display:inline;overflow:visible;visibility:visible;fill:#fe801c;fill-opacity:1;fill-rule:nonzero;stroke:#fe801c;stroke-width:2.39221978;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" /></flowRegion><flowPara
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:Pecita;-inkscape-font-specification:'Pecita Bold';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#fe801c;fill-opacity:1;fill-rule:nonzero;stroke:#fe801c;stroke-width:2.39221978;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:1.25;font-family:Pecita;-inkscape-font-specification:'Pecita Bold';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#fe801c;fill-opacity:1;fill-rule:nonzero;stroke:#fe801c;stroke-width:2.39221978;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
          id="flowPara4058-8-1-3-0-6-1-3-0-3-3-1">π</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4052-0-1-3-3-0-5-1-5-3-7"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#ec6870;fill-opacity:1;fill-rule:nonzero;stroke:#ec6870;stroke-width:2.39221978;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#ec6870;fill-opacity:1;fill-rule:nonzero;stroke:#ec6870;stroke-width:2.39221978;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
        transform="matrix(0.98526408,-0.43397097,-0.06527274,1.0891254,1301.3744,2597.408)"><flowRegion
          id="flowRegion4054-7-0-2-2-5-5-9-7-0-3"
          style="stroke-width:5.71580029"><rect
@@ -183,11 +183,11 @@
            x="92.642677"
            y="425.30325"
            style="color:#000000;font-size:72px;display:inline;overflow:visible;visibility:visible;fill:#ec6870;fill-opacity:1;fill-rule:nonzero;stroke:#ec6870;stroke-width:2.39221978;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" /></flowRegion><flowPara
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:Pecita;-inkscape-font-specification:'Pecita Bold';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ec6870;fill-opacity:1;fill-rule:nonzero;stroke:#ec6870;stroke-width:2.39221978;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:1.25;font-family:Pecita;-inkscape-font-specification:'Pecita Bold';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ec6870;fill-opacity:1;fill-rule:nonzero;stroke:#ec6870;stroke-width:2.39221978;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
          id="flowPara4058-8-1-3-0-6-1-3-0-3-6">τς</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4052-0-1-3-3-0-5-1-5-3-2-2"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#ec6870;fill-opacity:1;fill-rule:nonzero;stroke:#ec6870;stroke-width:2.39221978;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#ec6870;fill-opacity:1;fill-rule:nonzero;stroke:#ec6870;stroke-width:2.39221978;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
        transform="matrix(1.0081948,0.19331276,0.03396662,1.0427705,1198.3806,2520.469)"><flowRegion
          id="flowRegion4054-7-0-2-2-5-5-9-7-0-7-7"
          style="stroke-width:5.71580029"><rect
@@ -197,11 +197,11 @@
            x="92.642677"
            y="425.30325"
            style="color:#000000;font-size:72px;display:inline;overflow:visible;visibility:visible;fill:#ec6870;fill-opacity:1;fill-rule:nonzero;stroke:#ec6870;stroke-width:2.39221978;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" /></flowRegion><flowPara
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:Pecita;-inkscape-font-specification:'Pecita Bold';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ec6870;fill-opacity:1;fill-rule:nonzero;stroke:#ec6870;stroke-width:2.39221978;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:1.25;font-family:Pecita;-inkscape-font-specification:'Pecita Bold';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ec6870;fill-opacity:1;fill-rule:nonzero;stroke:#ec6870;stroke-width:2.39221978;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
          id="flowPara4058-8-1-3-0-6-1-3-0-3-3-6">λά</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4052-0-1-3-3-0-5-1-5-3-2-4-8"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#ec6870;fill-opacity:1;fill-rule:nonzero;stroke:#ec6870;stroke-width:2.39221978;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#ec6870;fill-opacity:1;fill-rule:nonzero;stroke:#ec6870;stroke-width:2.39221978;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
        transform="matrix(1.327996,0.66247151,-0.08797837,1.3827631,1153.0431,2268.801)"
        inkscape:transform-center-x="37.57812"
        inkscape:transform-center-y="-37.112039"><flowRegion
@@ -213,11 +213,11 @@
            x="92.642677"
            y="425.30325"
            style="color:#000000;font-size:72px;display:inline;overflow:visible;visibility:visible;fill:#ec6870;fill-opacity:1;fill-rule:nonzero;stroke:#ec6870;stroke-width:2.39221978;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" /></flowRegion><flowPara
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:Pecita;-inkscape-font-specification:'Pecita Bold';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ec6870;fill-opacity:1;fill-rule:nonzero;stroke:#ec6870;stroke-width:2.39221978;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:1.25;font-family:Pecita;-inkscape-font-specification:'Pecita Bold';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ec6870;fill-opacity:1;fill-rule:nonzero;stroke:#ec6870;stroke-width:2.39221978;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
          id="flowPara4058-8-1-3-0-6-1-3-0-3-3-1-6">π</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4052-0-1-3-3-0-5-1-5-3-4"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#4ca4f5;fill-opacity:1;fill-rule:nonzero;stroke:#4ca4f5;stroke-width:3.00470686;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#4ca4f5;fill-opacity:1;fill-rule:nonzero;stroke:#4ca4f5;stroke-width:3.00470686;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
        transform="matrix(0.8547277,0.05313981,-0.05662483,0.74882022,1515.6483,2626.871)"><flowRegion
          id="flowRegion4054-7-0-2-2-5-5-9-7-0-2"
          style="stroke-width:7.17923307"><rect
@@ -227,11 +227,11 @@
            x="92.642677"
            y="425.30325"
            style="color:#000000;font-size:72px;display:inline;overflow:visible;visibility:visible;fill:#4ca4f5;fill-opacity:1;fill-rule:nonzero;stroke:#4ca4f5;stroke-width:3.00470686;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" /></flowRegion><flowPara
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:Pecita;-inkscape-font-specification:'Pecita Bold';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#4ca4f5;fill-opacity:1;fill-rule:nonzero;stroke:#4ca4f5;stroke-width:3.00470686;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:1.25;font-family:Pecita;-inkscape-font-specification:'Pecita Bold';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#4ca4f5;fill-opacity:1;fill-rule:nonzero;stroke:#4ca4f5;stroke-width:3.00470686;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
          id="flowPara4058-8-1-3-0-6-1-3-0-3-0">τς</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4052-0-1-3-3-0-5-1-5-3-2-3"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#4ca4f5;fill-opacity:1;fill-rule:nonzero;stroke:#4ca4f5;stroke-width:3.00470686;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#4ca4f5;fill-opacity:1;fill-rule:nonzero;stroke:#4ca4f5;stroke-width:3.00470686;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
        transform="matrix(0.87845173,-0.1985168,-0.13203379,0.76186013,1498.0894,2662.101)"><flowRegion
          id="flowRegion4054-7-0-2-2-5-5-9-7-0-7-75"
          style="stroke-width:7.17923307"><rect
@@ -241,11 +241,11 @@
            x="92.642677"
            y="425.30325"
            style="color:#000000;font-size:72px;display:inline;overflow:visible;visibility:visible;fill:#4ca4f5;fill-opacity:1;fill-rule:nonzero;stroke:#4ca4f5;stroke-width:3.00470686;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" /></flowRegion><flowPara
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:Pecita;-inkscape-font-specification:'Pecita Bold';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#4ca4f5;fill-opacity:1;fill-rule:nonzero;stroke:#4ca4f5;stroke-width:3.00470686;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:1.25;font-family:Pecita;-inkscape-font-specification:'Pecita Bold';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#4ca4f5;fill-opacity:1;fill-rule:nonzero;stroke:#4ca4f5;stroke-width:3.00470686;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
          id="flowPara4058-8-1-3-0-6-1-3-0-3-3-0">λά</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4052-0-1-3-3-0-5-1-5-3-2-4-5"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:72px;line-height:125%;font-family:Pecita;-inkscape-font-specification:'Pecita Bold';letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#4ca4f5;fill-opacity:1;fill-rule:nonzero;stroke:#4ca4f5;stroke-width:3.00470686;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0.01%;font-family:Pecita;-inkscape-font-specification:'Pecita Bold';letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#4ca4f5;fill-opacity:1;fill-rule:nonzero;stroke:#4ca4f5;stroke-width:3.00470686;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
        transform="matrix(1.0987914,-0.61977074,-0.07279379,1.0082273,1392.8392,2627.271)"
        inkscape:transform-center-x="31.092263"
        inkscape:transform-center-y="5.08597"><flowRegion
@@ -257,6 +257,6 @@
            x="92.642677"
            y="425.30325"
            style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:72px;font-family:Pecita;-inkscape-font-specification:'Pecita Bold';display:inline;overflow:visible;visibility:visible;fill:#4ca4f5;fill-opacity:1;fill-rule:nonzero;stroke:#4ca4f5;stroke-width:3.00470686;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" /></flowRegion><flowPara
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:Pecita;-inkscape-font-specification:'Pecita Bold';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#4ca4f5;fill-opacity:1;fill-rule:nonzero;stroke:#4ca4f5;stroke-width:3.00470686;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:1.25;font-family:Pecita;-inkscape-font-specification:'Pecita Bold';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#4ca4f5;fill-opacity:1;fill-rule:nonzero;stroke:#4ca4f5;stroke-width:3.00470686;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
          id="flowPara4058-8-1-3-0-6-1-3-0-3-3-1-4">π</flowPara></flowRoot>  </g>
 </svg>

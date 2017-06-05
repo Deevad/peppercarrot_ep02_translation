@@ -12,11 +12,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 renderfarm"
    width="2481"
    height="3503"
-   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E02P05.svg">
-  <metadata
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E02P05_092.svg">
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1813" inkscape:window-height="955" id="namedview70" showgrid="false" inkscape:zoom="0.4" inkscape:cx="1284.4231" inkscape:cy="2618.6204" inkscape:current-layer="layer1" /><metadata
      id="metadata8">
     <rdf:RDF>
       <cc:Work
@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="847"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.25606623"
-     inkscape:cx="909.47261"
-     inkscape:cy="2049.7732"
-     inkscape:window-x="1358"
-     inkscape:window-y="-8"
+     inkscape:cx="917.28309"
+     inkscape:cy="2010.7208"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="D:\Pepper &amp; Carrot Translation Project\Episode 2\peppercarrot_ep02_translation-master\fa\..\gfx_Pepper-and-Carrot_by-David-Revoy_E02P05.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep02_Rainbow-potions/lang/fa/../gfx_Pepper-and-Carrot_by-David-Revoy_E02P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E02P05.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="-1.6728083e-06"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -72,8 +72,8 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot4187"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:125px;line-height:125%;font-family:Midan;-inkscape-font-specification:'Midan, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#f05554;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.93969262,-0.34202014,0.34202014,0.93969262,-271.68329,481.9258)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Midan;-inkscape-font-specification:'Midan, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#f05554;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="rotate(-20,1230.7269,1011.3592)"><flowRegion
          id="flowRegion4189"><rect
            id="rect4191"
            width="444.22101"
@@ -81,11 +81,12 @@
            x="938.23383"
            y="1110.0643"
            style="font-size:125px;fill:#f05554;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara4193">بلوپ</flowPara></flowRoot>    <flowRoot
+         id="flowPara4193"
+         style="font-size:125px;line-height:1.25">بلوپ</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4187-8"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:125px;line-height:125%;font-family:Midan;-inkscape-font-specification:'Midan, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#f05554;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.93969262,-0.34202014,0.34202014,0.93969262,-210.93489,566.63773)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Midan;-inkscape-font-specification:'Midan, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#f05554;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="rotate(-20,1501.3137,881.45448)"><flowRegion
          id="flowRegion4189-8"><rect
            id="rect4191-9"
            width="444.22101"
@@ -93,11 +94,12 @@
            x="938.23383"
            y="1110.0643"
            style="font-size:125px;fill:#f05554;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara4193-2">بلوپ</flowPara></flowRoot>    <flowRoot
+         id="flowPara4193-2"
+         style="font-size:125px;line-height:1.25">بلوپ</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4219"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:112.5px;line-height:125%;font-family:Midan;-inkscape-font-specification:'Midan, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#fe801d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.93969262,-0.34202014,0.34202014,0.93969262,-770.73044,707.89935)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Midan;-inkscape-font-specification:'Midan, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#fe801d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="rotate(-20,1621.9831,2539.4645)"><flowRegion
          id="flowRegion4221"><rect
            id="rect4223"
            width="626.84265"
@@ -105,10 +107,11 @@
            x="704.16248"
            y="2700.8071"
            style="font-size:112.5px;fill:#fe801d;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara4225">لاپ لوپ</flowPara></flowRoot>    <flowRoot
+         id="flowPara4225"
+         style="font-size:112.5px;line-height:1.25">لاپ لوپ</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4219-3"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:112.5px;line-height:125%;font-family:Midan;-inkscape-font-specification:'Midan, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#ec6870;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Midan;-inkscape-font-specification:'Midan, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#ec6870;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="matrix(0.77084325,0.28374563,-0.280564,0.7795847,1344.9179,578.43286)"><flowRegion
          id="flowRegion4221-5"><rect
            id="rect4223-6"
@@ -117,10 +120,11 @@
            x="704.16248"
            y="2700.8071"
            style="font-size:112.5px;fill:#ec6870;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara4225-0">لاپ لوپ</flowPara></flowRoot>    <flowRoot
+         id="flowPara4225-0"
+         style="font-size:112.5px;line-height:1.25">لاپ لوپ</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4219-3-0"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:112.5px;line-height:125%;font-family:Midan;-inkscape-font-specification:'Midan, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#4ca4f5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Midan;-inkscape-font-specification:'Midan, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#4ca4f5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="matrix(0.64401568,0.0022232,0.0023441,0.61609893,913.8073,1270.0638)"><flowRegion
          id="flowRegion4221-5-7"><rect
            id="rect4223-6-2"
@@ -129,5 +133,6 @@
            x="704.16248"
            y="2700.8071"
            style="font-size:112.5px;fill:#4ca4f5;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara4225-0-4">لاپ لوپ</flowPara></flowRoot>  </g>
+         id="flowPara4225-0-4"
+         style="font-size:112.5px;line-height:1.25">لاپ لوپ</flowPara></flowRoot>  </g>
 </svg>
