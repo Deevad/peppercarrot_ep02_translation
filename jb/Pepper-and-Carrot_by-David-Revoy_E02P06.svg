@@ -12,26 +12,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 unknown"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="900"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E02P06.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1813"
-     inkscape:window-height="955"
-     id="namedview70"
-     showgrid="false"
-     inkscape:zoom="0.34782609"
-     inkscape:cx="1315.8137"
-     inkscape:cy="565.69598"
-     inkscape:current-layer="svg2"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="0" />
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -72,17 +56,17 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep02_Rainbow-potions/lang/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E02P06.png"
+       sodipodi:absref="F:\peppercarrot_ep02_translation\jbo\..\gfx_Pepper-and-Carrot_by-David-Revoy_E02P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E02P06.png"
-       y="0"
-       x="-1.6728083e-06"
-       id="image10"
+       width="2481"
        height="900"
-       width="2481" />
+       id="image10"
+       x="-1.6728083e-06"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="text"
-     style="display:inline;opacity:1" />
+     style="opacity:1" />
 </svg>

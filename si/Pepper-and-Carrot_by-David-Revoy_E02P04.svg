@@ -12,11 +12,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 renderfarm"
+   inkscape:version="0.91 r"
    width="2481"
    height="3503"
-   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E02P04_092.svg">
-  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1813" inkscape:window-height="955" id="namedview70" showgrid="false" inkscape:zoom="0.4" inkscape:cx="1284.4231" inkscape:cy="2618.6204" inkscape:current-layer="layer1" /><metadata
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E02P04.svg">
+  <metadata
      id="metadata8">
     <rdf:RDF>
       <cc:Work
@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.25606623"
-     inkscape:cx="1248.3105"
-     inkscape:cy="1712.4476"
-     inkscape:window-x="1920"
-     inkscape:window-y="27"
+     inkscape:cx="1240.5"
+     inkscape:cy="1751.5"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep02_Rainbow-potions/lang/si/../gfx_Pepper-and-Carrot_by-David-Revoy_E02P04.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/si/../gfx_Pepper-and-Carrot_by-David-Revoy_E02P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E02P04.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="-1.6728083e-06"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -113,12 +113,13 @@
        style="font-style:normal;font-weight:normal;font-size:50px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff4346;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 909.86777,3042.2598 q 1.19938,5.0117 -2.59758,7.7587 -1.28773,0.8823 -2.72213,1.1513 -5.41851,1.0138 -6.71285,-4.3963 -1.19137,-4.9763 2.65993,-7.8454 1.21651,-0.8322 2.73057,-1.1159 5.33884,-0.9991 6.64206,4.4476 z m -5.62566,-10.2892 q -0.86341,0.9148 -1.84931,1.6661 -0.95522,0.7052 -2.0413,1.2104 l -2.25465,-0.896 -12.76766,-43.6174 q 1.5825,-1.389 3.3419,-2.7377 1.75873,-1.3466 3.83147,-2.6009 l 3.13411,0.9181 8.60544,46.0574 z" />
     <text
+       sodipodi:linespacing="125%"
        id="text3533"
        y="2689.4417"
        x="2081.2898"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f7c587;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:43.20000076px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f7c587;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.20000076px;line-height:1.25;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';fill:#f7c587;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';fill:#f7c587;fill-opacity:1"
          y="2689.4417"
          x="2081.2898"
          id="tspan3535"
@@ -141,75 +142,81 @@
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3481aa;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:36.30258179px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3481aa;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1606.0125"
        y="3173.9141"
        id="text3655"
+       sodipodi:linespacing="125%"
        transform="matrix(0.93090871,-0.04851372,0,1.0742192,0,0)"><tspan
          sodipodi:role="line"
          id="tspan3657"
          x="1606.0125"
          y="3173.9141"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.52951431px;line-height:1.25;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';fill:#3481aa;fill-opacity:1">ස්</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.52951431px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';fill:#3481aa;fill-opacity:1">ස්</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3481aa;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:31.46702957px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3481aa;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1352.9022"
        y="2987.8445"
        id="text3655-7"
+       sodipodi:linespacing="125%"
        transform="matrix(0.82825301,-0.14702671,0.14009544,1.1824916,0,0)"><tspan
          sodipodi:role="line"
          id="tspan3657-2"
          x="1352.9022"
          y="2987.8445"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:55.06729889px;line-height:1.25;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';fill:#3481aa;fill-opacity:1">ස්</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:55.06729889px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';fill:#3481aa;fill-opacity:1">ස්</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3481aa;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:36.30258179px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3481aa;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="989.58972"
        y="2978.4934"
        id="text3655-4"
+       sodipodi:linespacing="125%"
        transform="matrix(0.97150781,0.16557718,0.2053045,1.0643185,0,0)"><tspan
          sodipodi:role="line"
          id="tspan3657-7"
          x="989.58972"
          y="2978.4934"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.52951431px;line-height:1.25;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';fill:#3481aa;fill-opacity:1">ස්</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.52951431px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';fill:#3481aa;fill-opacity:1">ස්</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3481aa;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:34.77378845px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3481aa;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1942.8314"
        y="2567.5049"
        id="text3695"
+       sodipodi:linespacing="125%"
        transform="matrix(0.88974886,0.25220444,-0.0452206,1.1110946,0,0)"><tspan
          sodipodi:role="line"
          id="tspan3697"
          x="1942.8314"
          y="2567.5049"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60.85412979px;line-height:1.25;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';fill:#3481aa;fill-opacity:1">ප්</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60.85412979px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';fill:#3481aa;fill-opacity:1">ප්</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3481aa;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:36.1953392px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3481aa;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="941.66467"
        y="3271.4724"
        id="text3699"
+       sodipodi:linespacing="125%"
        transform="matrix(0.87646446,-0.2008875,0.2536629,1.0828075,0,0)"><tspan
          sodipodi:role="line"
          id="tspan3701"
          x="941.66467"
          y="3271.4724"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.34184265px;line-height:1.25;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold'">ලැ</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.34184265px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold'">ලැ</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3481aa;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:36.1953392px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3481aa;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="669.69611"
        y="3735.8706"
        id="text3703"
+       sodipodi:linespacing="125%"
        transform="matrix(0.85037522,-0.51524258,0.3062901,0.99037022,0,0)"><tspan
          sodipodi:role="line"
          id="tspan3705"
          x="669.69611"
          y="3735.8706"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.34184265px;line-height:1.25;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';fill:#3481aa;fill-opacity:1">ට්</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.34184265px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';fill:#3481aa;fill-opacity:1">ට්</tspan></text>
   </g>
 </svg>

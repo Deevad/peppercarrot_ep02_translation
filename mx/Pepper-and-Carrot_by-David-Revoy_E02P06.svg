@@ -12,11 +12,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 renderfarm"
+   inkscape:version="0.91 r"
    width="2481"
    height="900"
-   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E02P06_092.svg">
-  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1813" inkscape:window-height="955" id="namedview70" showgrid="false" inkscape:zoom="0.4" inkscape:cx="1284.4231" inkscape:cy="2618.6204" inkscape:current-layer="layer1" /><metadata
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E02P06.svg">
+  <metadata
      id="metadata8">
     <rdf:RDF>
       <cc:Work
@@ -39,8 +39,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="477"
-     inkscape:window-height="415"
+     inkscape:window-width="1272"
+     inkscape:window-height="811"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.59975816"
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep02_Rainbow-potions/lang/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E02P06.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E02P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E02P06.png"
-       width="2481"
-       height="900"
-       id="image10"
+       y="0"
        x="-1.6728083e-06"
-       y="0" />
+       id="image10"
+       height="900"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -71,7 +71,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3574"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#485a48;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#485a48;fill-opacity:1;stroke:none"
        transform="matrix(0.97303332,0,0,1.1215131,128.70351,-17453.594)"><flowRegion
          id="flowRegion3576"><rect
            id="rect3578"
@@ -80,11 +80,11 @@
            x="158.58536"
            y="15665.729"
            style="text-align:center;text-anchor:middle;fill:#485a48;fill-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#485a48;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#485a48;fill-opacity:1"
          id="flowPara3582">Esta tira cómica es de código libre. Este episodio ha tenido 21 contribuyentes en</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3574-8"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.97303332,0,0,1.0244559,122.29354,-15854.595)"><flowRegion
          id="flowRegion3576-9"><rect
            id="rect3578-1"
@@ -93,11 +93,11 @@
            x="158.58536"
            y="15665.729"
            style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#9c0000;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#9c0000;fill-opacity:1"
          id="flowPara3582-4">www.patreon.com/davidrevoy</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3574-1"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#42493d;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#42493d;fill-opacity:1;stroke:none"
        transform="matrix(0.97303332,0,0,1.0386341,103.41847,-16007.009)"><flowRegion
          id="flowRegion3576-97"><rect
            id="rect3578-2"
@@ -106,11 +106,11 @@
            x="158.58536"
            y="15665.729"
            style="text-align:center;text-anchor:middle;fill:#42493d;fill-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#42493d;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#42493d;fill-opacity:1"
          id="flowPara3582-2">Gracias a :</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3574-1-6"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#777967;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#777967;fill-opacity:1;stroke:none"
        transform="matrix(0.73625098,0,0,0.78904965,392.06513,-11711.907)"><flowRegion
          id="flowRegion3576-97-8"><rect
            id="rect3578-2-9"
@@ -119,10 +119,10 @@
            x="158.58536"
            y="15665.729"
            style="text-align:center;text-anchor:middle;fill:#777967;fill-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#777967;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#777967;fill-opacity:1"
          id="flowPara3582-2-8">hecho con Krita en GNU/Linux- traducido con Inkscape en Archlinux</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.97303332,0,0,1.0386341,71.081255,-15701.275)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#42493d;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#42493d;fill-opacity:1;stroke:none"
        id="flowRoot3178"
        xml:space="preserve"><flowRegion
          id="flowRegion3180"><rect
@@ -133,7 +133,7 @@
            width="2021.3717"
            id="rect3182" /></flowRegion><flowPara
          id="flowPara3184"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#42493d;fill-opacity:1">Traducción al castellano : TheFaico <flowSpan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#42493d;fill-opacity:1">Traducción al castellano : TheFaico <flowSpan
    style="font-size:29.54345703px"
    id="flowSpan6564"> adaptado para México por RJ Quiralta</flowSpan></flowPara></flowRoot>  </g>
 </svg>
