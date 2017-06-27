@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E02P02.svg">
@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.25606623"
-     inkscape:cx="1240.5"
-     inkscape:cy="1751.5"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.36213234"
+     inkscape:cx="1707.2389"
+     inkscape:cy="2978.9518"
+     inkscape:window-x="1592"
+     inkscape:window-y="124"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E02P02.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E02P02.png"
-       y="0"
-       x="-1.6728083e-06"
-       id="image10"
+       sodipodi:absref="D:\Pepper &amp; Carrot Translation Project\Episode 2\peppercarrot_ep02_translation-master\fa\..\gfx_Pepper-and-Carrot_by-David-Revoy_E02P02.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E02P02.png"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="-1.6728083e-06"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -73,17 +73,15 @@
        xml:space="preserve"
        id="flowRoot3063-8-9-4-4"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#e69d76;fill-opacity:1;fill-rule:nonzero;stroke:#e99f77;stroke-width:3.84797239;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
-       transform="matrix(0.73603861,0.37310914,-0.15603585,0.72101075,1778.5894,128.4377)"><flowRegion
+       transform="matrix(0.73603861,0.37310914,-0.15603585,0.72101075,1763.4016,129.81841)"><flowRegion
          id="flowRegion3065-8-8-2-4"
          style="stroke-width:7.79626608"><rect
            id="rect3067-6-6-0-4"
-           width="153.02928"
-           height="91.750099"
+           width="240.21191"
+           height="113.65856"
            x="92.642677"
            y="425.30325"
            style="color:#000000;font-size:72px;display:inline;overflow:visible;visibility:visible;fill:#e69d76;fill-opacity:1;fill-rule:nonzero;stroke:#e99f77;stroke-width:3.84797239;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" /></flowRegion><flowPara
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#e69d76;fill-opacity:1;fill-rule:nonzero;stroke:#e99f77;stroke-width:3.84797239;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
-         id="flowPara3188-0-7-3">t<flowSpan
-   style="font-size:76.32675171px;stroke-width:3.84797239;stroke-miterlimit:4;stroke-dasharray:none"
-   id="flowSpan3863">o</flowSpan>k</flowPara></flowRoot>  </g>
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.21652222px;font-family:'XP Vosta';-inkscape-font-specification:'XP Vosta';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#e69d76;fill-opacity:1;fill-rule:nonzero;stroke:#e99f77;stroke-width:3.84797239;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="flowPara3188-0-7-3">تاق</flowPara></flowRoot>  </g>
 </svg>

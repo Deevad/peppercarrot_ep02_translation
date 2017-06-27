@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="847"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.25606623"
-     inkscape:cx="909.47261"
-     inkscape:cy="2049.7732"
-     inkscape:window-x="1358"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.51213246"
+     inkscape:cx="1182.1331"
+     inkscape:cy="517.16925"
+     inkscape:window-x="1592"
+     inkscape:window-y="124"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -58,11 +58,11 @@
     <image
        sodipodi:absref="D:\Pepper &amp; Carrot Translation Project\Episode 2\peppercarrot_ep02_translation-master\fa\..\gfx_Pepper-and-Carrot_by-David-Revoy_E02P05.png"
        xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E02P05.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="-1.6728083e-06"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -81,19 +81,8 @@
            x="938.23383"
            y="1110.0643"
            style="font-size:125px;fill:#f05554;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara4193">بلوپ</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4187-8"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:125px;line-height:125%;font-family:Midan;-inkscape-font-specification:'Midan, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#f05554;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.93969262,-0.34202014,0.34202014,0.93969262,-210.93489,566.63773)"><flowRegion
-         id="flowRegion4189-8"><rect
-           id="rect4191-9"
-           width="444.22101"
-           height="229.43283"
-           x="938.23383"
-           y="1110.0643"
-           style="font-size:125px;fill:#f05554;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara4193-2">بلوپ</flowPara></flowRoot>    <flowRoot
+         id="flowPara4193"
+         style="-inkscape-font-specification:'XP Vosta';font-family:'XP Vosta';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:90.00000017px">بلوپ</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4219"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:112.5px;line-height:125%;font-family:Midan;-inkscape-font-specification:'Midan, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#fe801d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -105,7 +94,8 @@
            x="704.16248"
            y="2700.8071"
            style="font-size:112.5px;fill:#fe801d;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara4225">لاپ لوپ</flowPara></flowRoot>    <flowRoot
+         id="flowPara4225"
+         style="-inkscape-font-specification:'XP Vosta';font-family:'XP Vosta';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:90.00000017px">لاپ لوپ</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4219-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:112.5px;line-height:125%;font-family:Midan;-inkscape-font-specification:'Midan, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#ec6870;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -117,7 +107,8 @@
            x="704.16248"
            y="2700.8071"
            style="font-size:112.5px;fill:#ec6870;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara4225-0">لاپ لوپ</flowPara></flowRoot>    <flowRoot
+         id="flowPara4225-0"
+         style="-inkscape-font-specification:'XP Vosta';font-family:'XP Vosta';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:84.85338372px">لاپ لوپ</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4219-3-0"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:112.5px;line-height:125%;font-family:Midan;-inkscape-font-specification:'Midan, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#4ca4f5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -129,5 +120,19 @@
            x="704.16248"
            y="2700.8071"
            style="font-size:112.5px;fill:#4ca4f5;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara4225-0-4">لاپ لوپ</flowPara></flowRoot>  </g>
+         id="flowPara4225-0-4"
+         style="-inkscape-font-specification:'XP Vosta';font-family:'XP Vosta';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:95.25343687px">لاپ لوپ</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4187-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:125px;line-height:125%;font-family:Midan;-inkscape-font-specification:'Midan, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#f05554;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.93969262,-0.34202014,0.34202014,0.93969262,-274.31711,596.71385)"><flowRegion
+         id="flowRegion4189-5"><rect
+           id="rect4191-6"
+           width="444.22101"
+           height="229.43283"
+           x="938.23383"
+           y="1110.0643"
+           style="font-size:125px;fill:#f05554;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara4193-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;font-family:'XP Vosta';-inkscape-font-specification:'XP Vosta'">بلوپ</flowPara></flowRoot>  </g>
 </svg>

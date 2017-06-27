@@ -63,21 +63,12 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4159"
-       id="linearGradient4201"
+       id="linearGradient4167-0"
        gradientUnits="userSpaceOnUse"
-       x1="165.98498"
-       y1="479.80254"
+       x1="165.98499"
+       y1="479.80255"
        x2="260.97232"
-       y2="479.80254" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4159"
-       id="linearGradient4219"
-       gradientUnits="userSpaceOnUse"
-       x1="165.98498"
-       y1="479.80254"
-       x2="260.97232"
-       y2="479.80254" />
+       y2="479.80255" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -88,15 +79,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="847"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.25606623"
-     inkscape:cx="615.66165"
-     inkscape:cy="2688.7575"
-     inkscape:window-x="1358"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.51213246"
+     inkscape:cx="713.29264"
+     inkscape:cy="2784.4359"
+     inkscape:window-x="1592"
+     inkscape:window-y="124"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -107,11 +98,11 @@
     <image
        sodipodi:absref="D:\Pepper &amp; Carrot Translation Project\Episode 2\peppercarrot_ep02_translation-master\fa\..\gfx_Pepper-and-Carrot_by-David-Revoy_E02P03.png"
        xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E02P03.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="-1.6728083e-06"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -121,8 +112,8 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3063-8"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.3819828;stroke-opacity:1;marker:none;enable-background:accumulate"
-       transform="matrix(1.2520739,0,0,1.4888503,638.72456,-34.842433)"><flowRegion
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.74657059;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       transform="matrix(1.2520739,0,0,1.4888503,627.00884,17.878308)"><flowRegion
          id="flowRegion3065-8"
          style="stroke:url(#linearGradient4167);stroke-width:4.3819828"><rect
            id="rect3067-6"
@@ -130,35 +121,35 @@
            height="156.66579"
            x="92.642677"
            y="425.30325"
-           style="color:#000000;font-size:72px;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.3819828;stroke-opacity:1;marker:none;enable-background:accumulate" /></flowRegion><flowPara
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.55235291px;font-family:Midan;-inkscape-font-specification:Midan;text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.45422935;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+           style="color:#000000;font-size:72px;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.74657059;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" /></flowRegion><flowPara
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65.91769409px;font-family:'XP Vosta';-inkscape-font-specification:'XP Vosta';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.74657059;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
          id="flowPara3188">قلپ</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
-       id="flowRoot3063-8-8"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.3819828;stroke-opacity:1;marker:none;enable-background:accumulate"
-       transform="matrix(1.2520739,0,0,1.3652103,662.15599,122.11135)"><flowRegion
-         id="flowRegion3065-8-3"
-         style="stroke:url(#linearGradient4201);stroke-width:4.3819828"><rect
-           id="rect3067-6-8"
+       id="flowRoot3063-8-9"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.74657059;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       transform="matrix(1.1135142,0,0,1.3208003,697.31928,193.66794)"><flowRegion
+         id="flowRegion3065-8-1"
+         style="stroke:url(#linearGradient4165);stroke-width:4.3819828"><rect
+           id="rect3067-6-5"
            width="243.45389"
            height="156.66579"
            x="92.642677"
            y="425.30325"
-           style="color:#000000;font-size:72px;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.3819828;stroke-opacity:1;marker:none;enable-background:accumulate" /></flowRegion><flowPara
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.55235291px;font-family:Midan;-inkscape-font-specification:Midan;text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.45422935;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
-         id="flowPara3188-9">قلپ</flowPara></flowRoot>    <flowRoot
+           style="color:#000000;font-size:72px;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.74657059;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" /></flowRegion><flowPara
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65.91769409px;font-family:'XP Vosta';-inkscape-font-specification:'XP Vosta';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.74657059;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="flowPara3188-5">قلپ</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
-       id="flowRoot3063-8-1"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.3819828;stroke-opacity:1;marker:none;enable-background:accumulate"
-       transform="matrix(1.0796673,0,0,1.2415702,734.10828,263.44418)"><flowRegion
-         id="flowRegion3065-8-4"
-         style="stroke:url(#linearGradient4219);stroke-width:4.3819828"><rect
-           id="rect3067-6-9"
+       id="flowRoot3063-8-4"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.74657059;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       transform="matrix(0.97495457,0,0,1.0967337,763.7897,384.23271)"><flowRegion
+         id="flowRegion3065-8-7"
+         style="stroke:url(#linearGradient4167-0);stroke-width:4.3819828"><rect
+           id="rect3067-6-1"
            width="243.45389"
            height="156.66579"
            x="92.642677"
            y="425.30325"
-           style="color:#000000;font-size:72px;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.3819828;stroke-opacity:1;marker:none;enable-background:accumulate" /></flowRegion><flowPara
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.55235291px;font-family:Midan;-inkscape-font-specification:Midan;text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.45422935;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
-         id="flowPara3188-4">قلپ</flowPara></flowRoot>  </g>
+           style="color:#000000;font-size:72px;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.74657059;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" /></flowRegion><flowPara
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65.91769409px;font-family:'XP Vosta';-inkscape-font-specification:'XP Vosta';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.74657059;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="flowPara3188-9">قلپ</flowPara></flowRoot>  </g>
 </svg>

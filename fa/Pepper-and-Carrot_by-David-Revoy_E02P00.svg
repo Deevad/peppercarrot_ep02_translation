@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="847"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.4186779"
-     inkscape:cx="891.374"
-     inkscape:cy="584.09972"
-     inkscape:window-x="1358"
-     inkscape:window-y="-8"
+     inkscape:cx="1148.9949"
+     inkscape:cy="278.37544"
+     inkscape:window-x="1592"
+     inkscape:window-y="124"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -58,11 +58,11 @@
     <image
        sodipodi:absref="D:\Pepper &amp; Carrot Translation Project\Episode 2\peppercarrot_ep02_translation-master\fa\..\gfx_Pepper-and-Carrot_by-David-Revoy_E02P00.png"
        xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E02P00.png"
-       width="2481"
-       height="663"
-       id="image10"
+       y="0"
        x="-1.6728083e-06"
-       y="0" />
+       id="image10"
+       height="663"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -72,7 +72,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3371"
-       style="font-style:normal;font-weight:normal;font-size:437.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#562f13;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:bold;font-size:312.5px;line-height:125%;font-family:'XP Ziba';letter-spacing:0px;word-spacing:0px;display:inline;fill:#562f13;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'XP Ziba Bold';font-stretch:normal;font-variant:normal;"
        transform="translate(110.63607,58.65334)"><flowRegion
          id="flowRegion3373"><rect
            id="rect3375"
@@ -80,12 +80,12 @@
            height="424.68536"
            x="267.07019"
            y="-5.405139"
-           style="font-size:437.5px;fill:#562f13;fill-opacity:1" /></flowRegion><flowPara
+           style="font-size:312.5px;fill:#562f13;fill-opacity:1;-inkscape-font-specification:'XP Ziba Bold';font-family:'XP Ziba';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;" /></flowRegion><flowPara
          id="flowPara3377"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:437.5px;font-family:Midan;-inkscape-font-specification:Midan;fill:#562f13;fill-opacity:1">فلفل و هویج</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:312.5px;font-family:'XP Ziba';-inkscape-font-specification:'XP Ziba Bold';fill:#562f13;fill-opacity:1;">فلفل و هویج</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3063-6"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:158.69801331px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;fill:#562f13;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:88.87088776px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;fill:#562f13;fill-opacity:1;stroke:none"
        transform="matrix(0.78765954,0,0,0.78765954,78.169645,211.38872)"><flowRegion
          id="flowRegion3065-3"><rect
            id="rect3067-0"
@@ -93,7 +93,7 @@
            height="167.45091"
            x="55.58606"
            y="367.86551"
-           style="font-size:158.69801331px;fill:#562f13;fill-opacity:1" /></flowRegion><flowPara
+           style="font-size:88.87088776px;fill:#562f13;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara3069-4"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:158.69801331px;font-family:Midan;-inkscape-font-specification:Midan;text-align:center;text-anchor:middle;fill:#562f13;fill-opacity:1">قسمت 2: معجون های رنگین کمان</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:114.26256561px;font-family:'XP Ziba';-inkscape-font-specification:'XP Ziba Bold';text-align:center;text-anchor:middle;fill:#562f13;fill-opacity:1">قسمت دوم: معجون های رنگین کمان</flowPara></flowRoot>  </g>
 </svg>
