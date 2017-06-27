@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="847"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.51213246"
-     inkscape:cx="1517.6047"
-     inkscape:cy="679.89747"
-     inkscape:window-x="1358"
-     inkscape:window-y="-8"
+     inkscape:cx="1804.4578"
+     inkscape:cy="538.80894"
+     inkscape:window-x="1592"
+     inkscape:window-y="124"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -57,12 +57,15 @@
      sodipodi:insensitive="true">
     <image
        sodipodi:absref="D:\Pepper &amp; Carrot Translation Project\Episode 2\peppercarrot_ep02_translation-master\fa\..\gfx_Pepper-and-Carrot_by-David-Revoy_E02P04.png"
+
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E02P04.png"
        width="2481"
        height="3503"
        id="image10"
        x="-1.6728083e-06"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -156,19 +159,20 @@
          id="flowPara3188-49-4-5">قلپ</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4359"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:125px;line-height:125%;font-family:Midan;-inkscape-font-specification:'Midan, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#fed18f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       transform="translate(-52.720736,-15.620959)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:125px;line-height:125%;font-family:Midan;-inkscape-font-specification:'Midan, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#fed18f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-64.436455,19.526198)"><flowRegion
          id="flowRegion4361"><rect
            id="rect4363"
            width="447.14993"
            height="228.45653"
            x="1942.8567"
            y="2630.179"
-           style="font-size:125px;fill:#fed18f;fill-opacity:1;" /></flowRegion><flowPara
-         id="flowPara4365">ممم...</flowPara></flowRoot>    <flowRoot
+           style="font-size:125px;fill:#fed18f;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara4365"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;font-family:'XP Vosta';-inkscape-font-specification:'XP Vosta'">اومم...</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4367"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.87125015px;line-height:125%;font-family:Midan;-inkscape-font-specification:'Midan, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#fe5c56;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.87125015px;line-height:125%;font-family:Midan;-inkscape-font-specification:'Midan, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#fe5c56;fill-opacity:1;stroke:none;stroke-width:2.70000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
        transform="matrix(0.5,-0.8660254,0.8660254,0.5,-2348.8109,2250.9658)"><flowRegion
          id="flowRegion4369"><rect
            id="rect4371"
@@ -176,13 +180,13 @@
            height="177.6884"
            x="626.79095"
            y="3077.3289"
-           style="fill:#fe5c56;fill-opacity:1" /></flowRegion><flowPara
+           style="fill:#fe5c56;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:2.70000001;stroke-miterlimit:4;stroke-dasharray:none;" /></flowRegion><flowPara
          id="flowPara4373"
-         style="font-size:125px;fill:#fe5c56;fill-opacity:1">پوووو!!</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;font-family:'XP Vosta';-inkscape-font-specification:'XP Vosta';fill:#fe5c56;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:2.70000001;stroke-miterlimit:4;stroke-dasharray:none;">پوووو!!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4375"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:112.5px;line-height:80.00000119%;font-family:Midan;-inkscape-font-specification:'Midan, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#3590d2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.93969262,-0.34202014,0.34202014,0.93969262,-951.73273,813.51163)"><flowRegion
+       transform="matrix(0.93969262,-0.34202014,0.34202014,0.93969262,-959.54321,834.99045)"><flowRegion
          id="flowRegion4377"><rect
            id="rect4379"
            width="531.11261"
@@ -190,6 +194,8 @@
            x="1415.6494"
            y="3137.8601"
            style="font-size:112.5px;line-height:80.00000119%;fill:#3590d2;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara4381">چلپ</flowPara><flowPara
-         id="flowPara4383"> چلوپ...</flowPara></flowRoot>  </g>
+         id="flowPara4381"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;font-family:'XP Vosta';-inkscape-font-specification:'XP Vosta'">چلپ</flowPara><flowPara
+         id="flowPara4383"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;font-family:'XP Vosta';-inkscape-font-specification:'XP Vosta'"> چلوپ...</flowPara></flowRoot>  </g>
 </svg>

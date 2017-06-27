@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="900"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E02P06.svg">
@@ -39,30 +39,31 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.59209996"
-     inkscape:cx="1240.5"
-     inkscape:cy="450"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.38231545"
+     inkscape:cx="1386.5167"
+     inkscape:cy="466.57053"
+     inkscape:window-x="1592"
+     inkscape:window-y="124"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     showguides="true" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E02P06.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E02P06.png"
-       y="0"
-       x="-1.6728083e-06"
-       id="image10"
+       sodipodi:absref="D:\Pepper &amp; Carrot Translation Project\Episode 2\peppercarrot_ep02_translation-master\fa\..\gfx_Pepper-and-Carrot_by-David-Revoy_E02P06.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E02P06.png"
+       width="2481"
        height="900"
-       width="2481" />
+       id="image10"
+       x="-1.6728083e-06"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -73,7 +74,7 @@
        xml:space="preserve"
        id="flowRoot3574"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#485a48;fill-opacity:1;stroke:none"
-       transform="matrix(1.0234171,0,0,1.2112341,50.718687,-18868.31)"><flowRegion
+       transform="matrix(1.0234171,0,0,1.2112341,50.718687,-18872.31)"><flowRegion
          id="flowRegion3576"><rect
            id="rect3578"
            width="2021.3717"
@@ -81,12 +82,12 @@
            x="158.58536"
            y="15665.729"
            style="text-align:center;text-anchor:middle;fill:#485a48;fill-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#485a48;fill-opacity:1"
-         id="flowPara3582">This webcomic is open-source and this episode was funded by my 21 patrons on</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:62.87205505px;font-family:Midan;-inkscape-font-specification:Midan;text-align:center;text-anchor:middle;fill:#485a48;fill-opacity:1"
+         id="flowPara3582"> وب کامیک فلفل و هویج کاملا رایگان و متن باز می باشد. این قسمت با حمایت 21 حامی تهیه شدہ.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3574-8"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(1.0234171,0,0,1.1064124,46.665477,-17138.631)"><flowRegion
+       transform="matrix(1.0234171,0,0,1.1064124,46.665477,-17158.631)"><flowRegion
          id="flowRegion3576-9"><rect
            id="rect3578-1"
            width="2021.3717"
@@ -94,12 +95,12 @@
            x="158.58536"
            y="15665.729"
            style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#9c0000;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:84.57804871px;font-family:Midan;-inkscape-font-specification:Midan;text-align:center;text-anchor:middle;fill:#9c0000;fill-opacity:1"
          id="flowPara3582-4">www.patreon.com/davidrevoy</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3574-1"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#42493d;fill-opacity:1;stroke:none"
-       transform="matrix(1.0234171,0,0,1.2112341,24.12438,-18708.829)"><flowRegion
+       transform="matrix(1.0234171,0,0,1.2112341,24.12438,-18714.829)"><flowRegion
          id="flowRegion3576-97"><rect
            id="rect3578-2"
            width="2021.3717"
@@ -107,12 +108,12 @@
            x="158.58536"
            y="15665.729"
            style="text-align:center;text-anchor:middle;fill:#42493d;fill-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#42493d;fill-opacity:1"
-         id="flowPara3582-2">Many thanks to</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:62.87205505px;font-family:Midan;-inkscape-font-specification:Midan;text-align:center;text-anchor:middle;fill:#42493d;fill-opacity:1"
+         id="flowPara3582-2">با تشکر فراوان از:</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3574-1-6"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#777967;fill-opacity:1;stroke:none"
-       transform="matrix(0.73625098,0,0,0.85217362,393.59292,-12615.222)"><flowRegion
+       transform="matrix(0.73625098,0,0,0.85217362,389.59292,-12621.222)"><flowRegion
          id="flowRegion3576-97-8"><rect
            id="rect3578-2-9"
            width="2021.3717"
@@ -120,6 +121,6 @@
            x="158.58536"
            y="15665.729"
            style="text-align:center;text-anchor:middle;fill:#777967;fill-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#777967;fill-opacity:1"
-         id="flowPara3582-2-8">made with Krita on Gnu/Linux</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:78.90472879px;font-family:Midan;-inkscape-font-specification:Midan;text-align:center;text-anchor:middle;fill:#777967;fill-opacity:1"
+         id="flowPara3582-2-8"> تهیه شدہ با کریتا روی Gnu/Linux</flowPara></flowRoot>  </g>
 </svg>
