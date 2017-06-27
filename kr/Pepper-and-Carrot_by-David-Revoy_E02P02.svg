@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.0 r15299"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E02P02.svg">
@@ -39,16 +39,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="742"
+     inkscape:window-width="958"
+     inkscape:window-height="991"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.72426467"
-     inkscape:cx="1908.6034"
-     inkscape:cy="2910.2245"
-     inkscape:window-x="0"
+     inkscape:zoom="0.3"
+     inkscape:cx="1487.2409"
+     inkscape:cy="1474.2853"
+     inkscape:window-x="952"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/sandbox/peppercarrot_ep02_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E02P02.png"
+       sodipodi:absref="C:\Users\qtwye\peppercarrot_translations\peppercarrot_ep02_translation\kr\..\gfx_Pepper-and-Carrot_by-David-Revoy_E02P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E02P02.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="-1.6728083e-06"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -73,7 +73,7 @@
        xml:space="preserve"
        id="flowRoot3063-8-9-4-4"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#e69d76;fill-opacity:1;fill-rule:nonzero;stroke:#e99f77;stroke-width:3.84797239;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
-       transform="matrix(0.73603861,0.37310914,-0.15603585,0.72101075,1778.5894,128.4377)"><flowRegion
+       transform="matrix(0.66476658,0.37310914,-0.29376473,0.72101075,1855.4975,128.4377)"><flowRegion
          id="flowRegion3065-8-8-2-4"
          style="stroke-width:7.79626608"><rect
            id="rect3067-6-6-0-4"
@@ -82,6 +82,6 @@
            x="92.642677"
            y="425.30325"
            style="color:#000000;font-size:72px;display:inline;overflow:visible;visibility:visible;fill:#e69d76;fill-opacity:1;fill-rule:nonzero;stroke:#e99f77;stroke-width:3.84797239;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" /></flowRegion><flowPara
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#e69d76;fill-opacity:1;fill-rule:nonzero;stroke:#e99f77;stroke-width:3.84797239;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Nanum Brush Script OTF';-inkscape-font-specification:'Nanum Brush Script OTF';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#e69d76;fill-opacity:1;fill-rule:nonzero;stroke:#e99f77;stroke-width:3.84797239;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
          id="flowPara3188-0-7-3">톡</flowPara></flowRoot>  </g>
 </svg>

@@ -97,8 +97,11 @@
      sodipodi:insensitive="true">
     <image
        sodipodi:absref="D:\Pepper &amp; Carrot Translation Project\Episode 2\peppercarrot_ep02_translation-master\fa\..\gfx_Pepper-and-Carrot_by-David-Revoy_E02P03.png"
-       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E02P03.png"
-       y="0"
+
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E02P03.png"
+       width="2481"
+       height="3503"
+       id="image10"
        x="-1.6728083e-06"
        id="image10"
        height="3503"
