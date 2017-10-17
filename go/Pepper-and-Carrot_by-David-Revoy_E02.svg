@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   width="1100"
+   height="765"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E02.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <filter
+       id="filter3797"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3799"
+         flood-opacity="0.8"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3801"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3803"
+         in="composite"
+         stdDeviation="10"
+         result="blur" />
+      <feOffset
+         id="feOffset3805"
+         dx="8"
+         dy="10"
+         result="offset" />
+      <feComposite
+         id="feComposite3807"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter3836"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3838"
+         flood-opacity="0.8"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3840"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3842"
+         in="composite"
+         stdDeviation="5"
+         result="blur" />
+      <feOffset
+         id="feOffset3844"
+         dx="8"
+         dy="10"
+         result="offset" />
+      <feComposite
+         id="feComposite3846"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4402"
+       x="-0.0034005821"
+       width="1.0068012"
+       y="-0.013677411"
+       height="1.0273548">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.082595546"
+         id="feGaussianBlur4404" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4406"
+       x="-0.0032217882"
+       width="1.0064436"
+       y="-0.014776948"
+       height="1.0295539">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.13376918"
+         id="feGaussianBlur4408" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4398"
+       x="-0.0032890984"
+       width="1.0065782"
+       y="-0.013935394"
+       height="1.0278708">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.11702162"
+         id="feGaussianBlur4400" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1292"
+     inkscape:window-height="745"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.90380222"
+     inkscape:cx="636.18785"
+     inkscape:cy="361.00681"
+     inkscape:window-x="66"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="artwork"
+     sodipodi:insensitive="true" />
+  <image
+     sodipodi:absref="C:\Users\Gwen\Documents\Academie_du_Gallo\Traduction_BD\peppercarrot_ep02_translation-master\go\../gfx_Pepper-and-Carrot_by-David-Revoy_E02.png"
+     xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E02.png"
+     width="1100"
+     height="765"
+     id="image10"
+     x="0"
+     y="0" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="txt">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#301b0b;fill-opacity:1;stroke:none;display:inline;filter:url(#filter3836);font-family:Arial;-inkscape-font-specification:Arial"
+       transform="matrix(0.69723552,0,0,0.69723552,-804.20841,244.15998)"><flowRegion
+         id="flowRegion2989"><rect
+           id="rect2991"
+           width="2405.8"
+           height="107.55731"
+           x="739.22333"
+           y="644.36664"
+           style="fill:#301b0b;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara2993"
+         style="font-size:68.8433075px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Lavi;-inkscape-font-specification:Lavi">Episode 2 : Lez pocions arc-en-cieu</flowPara></flowRoot>  </g>
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4325"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.90100002;fill:#2d1a1c;fill-opacity:1;stroke:#000000;stroke-width:0.28673479;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter4398);font-family:Arial;-inkscape-font-specification:Arial"
+     transform="matrix(1.086623,-0.12013712,0.2346377,1.3103639,-1120.322,-1661.0571)"><flowRegion
+       id="flowRegion4327"><rect
+         id="rect4329"
+         width="131.93344"
+         height="14.722872"
+         x="841.07574"
+         y="1755.9342"
+         style="fill:#2d1a1c;fill-opacity:1;stroke:#000000;stroke-width:0.28673479;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" /></flowRegion><flowPara
+       id="flowPara4335"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#2d1a1c;fill-opacity:1;stroke:#000000;stroke-width:0.28673479;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Fondamento;-inkscape-font-specification:Fondamento">GARE</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4325-5"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.878;fill:#221415;fill-opacity:1;stroke:#000000;stroke-width:0.3171955;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter4406);font-family:Arial;-inkscape-font-specification:Arial"
+     transform="matrix(0.85714787,-0.06813512,0.11336368,0.98471084,-691.92818,-1102.7109)"><flowRegion
+       id="flowRegion4327-2"><rect
+         id="rect4329-1"
+         width="125.0844"
+         height="34.121887"
+         x="841.07574"
+         y="1755.9342"
+         style="fill:#221415;fill-opacity:1;stroke:#000000;stroke-width:0.3171955;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" /></flowRegion><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#221415;fill-opacity:1;stroke:#000000;stroke-width:0.3171955;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Fondamento;-inkscape-font-specification:Fondamento"
+       id="flowPara4343">PASSEZ</flowPara><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#221415;fill-opacity:1;stroke:#000000;stroke-width:0.3171955;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Fondamento;-inkscape-font-specification:Fondamento"
+       id="flowPara4347">FRANC</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4325-9"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;opacity:0.92000002;fill:#241516;fill-opacity:1;stroke:#000000;stroke-width:0.23315693;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4402)"
+     transform="matrix(1.3808896,-0.12772959,0.26296594,1.573338,-1433.5537,-2100.7121)"><flowRegion
+       id="flowRegion4327-0"><rect
+         id="rect4329-16"
+         width="131.93344"
+         height="14.722872"
+         x="841.07574"
+         y="1755.9342"
+         style="fill:#241516;fill-opacity:1;stroke:#000000;stroke-width:0.23315693;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+       id="flowPara4335-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Fondamento;-inkscape-font-specification:Fondamento;text-align:center;text-anchor:middle;fill:#241516;fill-opacity:1;stroke:#000000;stroke-width:0.23315693;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">SORCIÈRE</flowPara></flowRoot></svg>

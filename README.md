@@ -42,6 +42,8 @@ License
 
 * French: David Revoy
 
+* Gallo: Patrik Deriano / Gwenaelle Lefeuvre
+
 * German: Helmar Suschka / Alexandra Jordan
 
 * Indonesian: Bonaventura Aditya Perdana
